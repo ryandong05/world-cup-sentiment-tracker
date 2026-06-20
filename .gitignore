@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Generated data
+data/raw/
+data/processed/
+
+# Outputs
+outputs/
