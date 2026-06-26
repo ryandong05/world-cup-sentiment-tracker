@@ -1,0 +1,6168 @@
+{
+  "source": {
+    "name": "2026 FIFA World Cup squads - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_squads",
+    "retrieved_at": "2026-06-26T11:56:41.660729+00:00"
+  },
+  "teams": {
+    "Algeria": {
+      "aliases": [
+        "alg",
+        "algeria",
+        "algerian"
+      ],
+      "manager": {
+        "name": "Vladimir Petković",
+        "aliases": [
+          "petkovic",
+          "vladimir petkovic",
+          "vladimir petković"
+        ]
+      },
+      "players": {
+        "Melvin Mastil": [
+          "mastil",
+          "melvin mastil"
+        ],
+        "Aïssa Mandi": [
+          "aissa mandi",
+          "aïssa mandi",
+          "mandi"
+        ],
+        "Achref Abada": [
+          "abada",
+          "achref abada"
+        ],
+        "Mohamed Amine Tougai": [
+          "mohamed amine tougai",
+          "tougai"
+        ],
+        "Zineddine Belaïd": [
+          "belaid",
+          "zineddine belaid",
+          "zineddine belaïd"
+        ],
+        "Ramiz Zerrouki": [
+          "ramiz zerrouki",
+          "zerrouki"
+        ],
+        "Riyad Mahrez": [
+          "mahrez",
+          "riyad mahrez"
+        ],
+        "Houssem Aouar": [
+          "aouar",
+          "houssem aouar"
+        ],
+        "Amine Gouiri": [
+          "amine gouiri",
+          "gouiri"
+        ],
+        "Farès Chaïbi": [
+          "chaibi",
+          "fares chaibi",
+          "farès chaïbi"
+        ],
+        "Anis Hadj Moussa": [
+          "anis hadj moussa",
+          "moussa"
+        ],
+        "Nadhir Benbouali": [
+          "benbouali",
+          "nadhir benbouali"
+        ],
+        "Jaouen Hadjam": [
+          "hadjam",
+          "jaouen hadjam"
+        ],
+        "Hicham Boudaoui": [
+          "boudaoui",
+          "hicham boudaoui"
+        ],
+        "Rayan Aït-Nouri": [
+          "ait-nouri",
+          "rayan ait-nouri",
+          "rayan aït-nouri"
+        ],
+        "Oussama Benbot": [
+          "benbot",
+          "oussama benbot"
+        ],
+        "Rafik Belghali": [
+          "belghali",
+          "rafik belghali"
+        ],
+        "Mohamed Amoura": [
+          "amoura",
+          "mohamed amoura"
+        ],
+        "Nabil Bentaleb": [
+          "bentaleb",
+          "nabil bentaleb"
+        ],
+        "Adil Boulbina": [
+          "adil boulbina",
+          "boulbina"
+        ],
+        "Ramy Bensebaini": [
+          "bensebaini",
+          "ramy bensebaini"
+        ],
+        "Ibrahim Maza": [
+          "ibrahim maza",
+          "maza"
+        ],
+        "Luca Zidane": [
+          "luca zidane",
+          "zidane"
+        ],
+        "Yacine Titraoui": [
+          "titraoui",
+          "yacine titraoui"
+        ],
+        "Farès Ghedjemis": [
+          "fares ghedjemis",
+          "farès ghedjemis",
+          "ghedjemis"
+        ],
+        "Samir Chergui": [
+          "chergui",
+          "samir chergui"
+        ]
+      }
+    },
+    "Argentina": {
+      "aliases": [
+        "arg",
+        "argentina",
+        "argentine",
+        "argentinian"
+      ],
+      "manager": {
+        "name": "Lionel Scaloni",
+        "aliases": [
+          "lionel scaloni",
+          "scaloni"
+        ]
+      },
+      "players": {
+        "Juan Musso": [
+          "juan musso",
+          "musso"
+        ],
+        "Marcos Senesi": [
+          "marcos senesi",
+          "senesi"
+        ],
+        "Nicolás Tagliafico": [
+          "nicolas tagliafico",
+          "nicolás tagliafico",
+          "tagliafico"
+        ],
+        "Gonzalo Montiel": [
+          "gonzalo montiel",
+          "montiel"
+        ],
+        "Leandro Paredes": [
+          "leandro paredes",
+          "paredes"
+        ],
+        "Lisandro Martínez": [
+          "lisandro martinez",
+          "lisandro martínez",
+          "martinez"
+        ],
+        "Rodrigo De Paul": [
+          "paul",
+          "rodrigo de paul"
+        ],
+        "Valentín Barco": [
+          "barco",
+          "valentin barco",
+          "valentín barco"
+        ],
+        "Julián Alvarez": [
+          "alvarez",
+          "julian alvarez",
+          "julián alvarez"
+        ],
+        "Lionel Messi": [
+          "leo messi",
+          "lionel messi",
+          "messi"
+        ],
+        "Giovani Lo Celso": [
+          "celso",
+          "giovani lo celso"
+        ],
+        "Gerónimo Rulli": [
+          "geronimo rulli",
+          "gerónimo rulli",
+          "rulli"
+        ],
+        "Cristian Romero": [
+          "cristian romero",
+          "romero"
+        ],
+        "Exequiel Palacios": [
+          "exequiel palacios",
+          "palacios"
+        ],
+        "Nicolás González": [
+          "gonzalez",
+          "nicolas gonzalez",
+          "nicolás gonzález"
+        ],
+        "Thiago Almada": [
+          "almada",
+          "thiago almada"
+        ],
+        "Giuliano Simeone": [
+          "giuliano simeone",
+          "simeone"
+        ],
+        "Nico Paz": [
+          "nico paz"
+        ],
+        "Nicolás Otamendi": [
+          "nicolas otamendi",
+          "nicolás otamendi",
+          "otamendi"
+        ],
+        "Alexis Mac Allister": [
+          "alexis mac allister",
+          "allister"
+        ],
+        "José Manuel López": [
+          "jose manuel lopez",
+          "josé manuel lópez",
+          "lopez"
+        ],
+        "Lautaro Martínez": [
+          "lautaro martinez",
+          "lautaro martínez",
+          "martinez"
+        ],
+        "Emiliano Martínez": [
+          "emiliano martinez",
+          "emiliano martínez",
+          "martinez"
+        ],
+        "Enzo Fernández": [
+          "enzo fernandez",
+          "enzo fernández",
+          "fernandez"
+        ],
+        "Facundo Medina": [
+          "facundo medina",
+          "medina"
+        ],
+        "Nahuel Molina": [
+          "molina",
+          "nahuel molina"
+        ]
+      }
+    },
+    "Australia": {
+      "aliases": [
+        "aus",
+        "aussie",
+        "australia",
+        "socceroos"
+      ],
+      "manager": {
+        "name": "Tony Popovic",
+        "aliases": [
+          "popovic",
+          "tony popovic"
+        ]
+      },
+      "players": {
+        "Mathew Ryan": [
+          "mathew ryan",
+          "ryan"
+        ],
+        "Miloš Degenek": [
+          "degenek",
+          "milos degenek",
+          "miloš degenek"
+        ],
+        "Alessandro Circati": [
+          "alessandro circati",
+          "circati"
+        ],
+        "Jacob Italiano": [
+          "italiano",
+          "jacob italiano"
+        ],
+        "Jordan Bos": [
+          "jordan bos"
+        ],
+        "Jason Geria": [
+          "geria",
+          "jason geria"
+        ],
+        "Mathew Leckie": [
+          "leckie",
+          "mathew leckie"
+        ],
+        "Connor Metcalfe": [
+          "connor metcalfe",
+          "metcalfe"
+        ],
+        "Mohamed Touré": [
+          "mohamed toure",
+          "mohamed touré",
+          "toure"
+        ],
+        "Ajdin Hrustic": [
+          "ajdin hrustic",
+          "hrustic"
+        ],
+        "Awer Mabil": [
+          "awer mabil",
+          "mabil"
+        ],
+        "Paul Izzo": [
+          "izzo",
+          "paul izzo"
+        ],
+        "Aiden O'Neill": [
+          "aiden o'neill",
+          "o'neill"
+        ],
+        "Cammy Devlin": [
+          "cammy devlin",
+          "devlin"
+        ],
+        "Kai Trewin": [
+          "kai trewin",
+          "trewin"
+        ],
+        "Aziz Behich": [
+          "aziz behich",
+          "behich"
+        ],
+        "Nestory Irankunda": [
+          "irankunda",
+          "nestory irankunda"
+        ],
+        "Patrick Beach": [
+          "beach",
+          "patrick beach"
+        ],
+        "Harry Souttar": [
+          "harry souttar",
+          "souttar"
+        ],
+        "Cristian Volpato": [
+          "cristian volpato",
+          "volpato"
+        ],
+        "Cameron Burgess": [
+          "burgess",
+          "cameron burgess"
+        ],
+        "Jackson Irvine": [
+          "irvine",
+          "jackson irvine"
+        ],
+        "Nishan Velupillay": [
+          "nishan velupillay",
+          "velupillay"
+        ],
+        "Paul Okon-Engstler": [
+          "okon-engstler",
+          "paul okon-engstler"
+        ],
+        "Lucas Herrington": [
+          "herrington",
+          "lucas herrington"
+        ],
+        "Tete Yengi": [
+          "tete yengi",
+          "yengi"
+        ]
+      }
+    },
+    "Austria": {
+      "aliases": [
+        "austria",
+        "austrian",
+        "aut"
+      ],
+      "manager": {
+        "name": "Ralf Rangnick",
+        "aliases": [
+          "ralf rangnick",
+          "rangnick"
+        ]
+      },
+      "players": {
+        "Alexander Schlager": [
+          "alexander schlager",
+          "schlager"
+        ],
+        "David Affengruber": [
+          "affengruber",
+          "david affengruber"
+        ],
+        "Kevin Danso": [
+          "danso",
+          "kevin danso"
+        ],
+        "Xaver Schlager": [
+          "schlager",
+          "xaver schlager"
+        ],
+        "Stefan Posch": [
+          "posch",
+          "stefan posch"
+        ],
+        "Nicolas Seiwald": [
+          "nicolas seiwald",
+          "seiwald"
+        ],
+        "Marko Arnautović": [
+          "arnautovic",
+          "marko arnautovic",
+          "marko arnautović"
+        ],
+        "David Alaba": [
+          "alaba",
+          "david alaba"
+        ],
+        "Marcel Sabitzer": [
+          "marcel sabitzer",
+          "sabitzer"
+        ],
+        "Florian Grillitsch": [
+          "florian grillitsch",
+          "grillitsch"
+        ],
+        "Michael Gregoritsch": [
+          "gregoritsch",
+          "michael gregoritsch"
+        ],
+        "Florian Wiegele": [
+          "florian wiegele",
+          "wiegele"
+        ],
+        "Patrick Pentz": [
+          "patrick pentz",
+          "pentz"
+        ],
+        "Saša Kalajdžić": [
+          "kalajdzic",
+          "sasa kalajdzic",
+          "saša kalajdžić"
+        ],
+        "Philipp Lienhart": [
+          "lienhart",
+          "philipp lienhart"
+        ],
+        "Phillipp Mwene": [
+          "mwene",
+          "phillipp mwene"
+        ],
+        "Carney Chukwuemeka": [
+          "carney chukwuemeka",
+          "chukwuemeka"
+        ],
+        "Romano Schmid": [
+          "romano schmid",
+          "schmid"
+        ],
+        "Dejan Ljubičić": [
+          "dejan ljubicic",
+          "dejan ljubičić",
+          "ljubicic"
+        ],
+        "Konrad Laimer": [
+          "konrad laimer",
+          "laimer"
+        ],
+        "Patrick Wimmer": [
+          "patrick wimmer",
+          "wimmer"
+        ],
+        "Alexander Prass": [
+          "alexander prass",
+          "prass"
+        ],
+        "Marco Friedl": [
+          "friedl",
+          "marco friedl"
+        ],
+        "Paul Wanner": [
+          "paul wanner",
+          "wanner"
+        ],
+        "Michael Svoboda": [
+          "michael svoboda",
+          "svoboda"
+        ],
+        "Alessandro Schöpf": [
+          "alessandro schopf",
+          "alessandro schöpf",
+          "schopf"
+        ]
+      }
+    },
+    "Belgium": {
+      "aliases": [
+        "bel",
+        "belgian",
+        "belgium",
+        "red devils"
+      ],
+      "manager": {
+        "name": "Rudi Garcia",
+        "aliases": [
+          "garcia",
+          "rudi garcia"
+        ]
+      },
+      "players": {
+        "Thibaut Courtois": [
+          "courtois",
+          "thibaut courtois"
+        ],
+        "Zeno Debast": [
+          "debast",
+          "zeno debast"
+        ],
+        "Arthur Theate": [
+          "arthur theate",
+          "theate"
+        ],
+        "Brandon Mechele": [
+          "brandon mechele",
+          "mechele"
+        ],
+        "Maxim De Cuyper": [
+          "cuyper",
+          "maxim de cuyper"
+        ],
+        "Axel Witsel": [
+          "axel witsel",
+          "witsel"
+        ],
+        "Kevin De Bruyne": [
+          "bruyne",
+          "kevin de bruyne"
+        ],
+        "Youri Tielemans": [
+          "tielemans",
+          "youri tielemans"
+        ],
+        "Romelu Lukaku": [
+          "lukaku",
+          "romelu lukaku"
+        ],
+        "Leandro Trossard": [
+          "leandro trossard",
+          "trossard"
+        ],
+        "Jérémy Doku": [
+          "doku",
+          "jeremy doku",
+          "jérémy doku"
+        ],
+        "Senne Lammens": [
+          "lammens",
+          "senne lammens"
+        ],
+        "Mike Penders": [
+          "mike penders",
+          "penders"
+        ],
+        "Dodi Lukébakio": [
+          "dodi lukebakio",
+          "dodi lukébakio",
+          "lukebakio"
+        ],
+        "Thomas Meunier": [
+          "meunier",
+          "thomas meunier"
+        ],
+        "Koni De Winter": [
+          "koni de winter",
+          "winter"
+        ],
+        "Charles De Ketelaere": [
+          "charles de ketelaere",
+          "ketelaere"
+        ],
+        "Joaquin Seys": [
+          "joaquin seys",
+          "seys"
+        ],
+        "Diego Moreira": [
+          "diego moreira",
+          "moreira"
+        ],
+        "Hans Vanaken": [
+          "hans vanaken",
+          "vanaken"
+        ],
+        "Timothy Castagne": [
+          "castagne",
+          "timothy castagne"
+        ],
+        "Alexis Saelemaekers": [
+          "alexis saelemaekers",
+          "saelemaekers"
+        ],
+        "Nicolas Raskin": [
+          "nicolas raskin",
+          "raskin"
+        ],
+        "Amadou Onana": [
+          "amadou onana",
+          "onana"
+        ],
+        "Nathan Ngoy": [
+          "nathan ngoy",
+          "ngoy"
+        ],
+        "Matias Fernandez-Pardo": [
+          "fernandez-pardo",
+          "matias fernandez-pardo"
+        ]
+      }
+    },
+    "Bosnia and Herzegovina": {
+      "aliases": [
+        "bih",
+        "bosnia",
+        "bosnia and herzegovina",
+        "bosnian"
+      ],
+      "manager": {
+        "name": "Sergej Barbarez",
+        "aliases": [
+          "barbarez",
+          "sergej barbarez"
+        ]
+      },
+      "players": {
+        "Nikola Vasilj": [
+          "nikola vasilj",
+          "vasilj"
+        ],
+        "Nihad Mujakić": [
+          "mujakic",
+          "nihad mujakic",
+          "nihad mujakić"
+        ],
+        "Dennis Hadžikadunić": [
+          "dennis hadzikadunic",
+          "dennis hadžikadunić",
+          "hadzikadunic"
+        ],
+        "Tarik Muharemović": [
+          "muharemovic",
+          "tarik muharemovic",
+          "tarik muharemović"
+        ],
+        "Sead Kolašinac": [
+          "kolasinac",
+          "sead kolasinac",
+          "sead kolašinac"
+        ],
+        "Benjamin Tahirović": [
+          "benjamin tahirovic",
+          "benjamin tahirović",
+          "tahirovic"
+        ],
+        "Amar Dedić": [
+          "amar dedic",
+          "amar dedić",
+          "dedic"
+        ],
+        "Armin Gigović": [
+          "armin gigovic",
+          "armin gigović",
+          "gigovic"
+        ],
+        "Samed Baždar": [
+          "bazdar",
+          "samed bazdar",
+          "samed baždar"
+        ],
+        "Ermedin Demirović": [
+          "demirovic",
+          "ermedin demirovic",
+          "ermedin demirović"
+        ],
+        "Edin Džeko": [
+          "dzeko",
+          "edin dzeko",
+          "edin džeko"
+        ],
+        "Mladen Jurkas": [
+          "jurkas",
+          "mladen jurkas"
+        ],
+        "Ivan Bašić": [
+          "basic",
+          "ivan basic",
+          "ivan bašić"
+        ],
+        "Ivan Šunjić": [
+          "ivan sunjic",
+          "ivan šunjić",
+          "sunjic"
+        ],
+        "Amar Memić": [
+          "amar memic",
+          "amar memić",
+          "memic"
+        ],
+        "Amir Hadžiahmetović": [
+          "amir hadziahmetovic",
+          "amir hadžiahmetović",
+          "hadziahmetovic"
+        ],
+        "Dženis Burnić": [
+          "burnic",
+          "dzenis burnic",
+          "dženis burnić"
+        ],
+        "Nikola Katić": [
+          "katic",
+          "nikola katic",
+          "nikola katić"
+        ],
+        "Kerim Alajbegović": [
+          "alajbegovic",
+          "kerim alajbegovic",
+          "kerim alajbegović"
+        ],
+        "Esmir Bajraktarević": [
+          "bajraktarevic",
+          "esmir bajraktarevic",
+          "esmir bajraktarević"
+        ],
+        "Stjepan Radeljić": [
+          "radeljic",
+          "stjepan radeljic",
+          "stjepan radeljić"
+        ],
+        "Martin Zlomislić": [
+          "martin zlomislic",
+          "martin zlomislić",
+          "zlomislic"
+        ],
+        "Haris Tabaković": [
+          "haris tabakovic",
+          "haris tabaković",
+          "tabakovic"
+        ],
+        "Arjan Malić": [
+          "arjan malic",
+          "arjan malić",
+          "malic"
+        ],
+        "Jovo Lukić": [
+          "jovo lukic",
+          "jovo lukić",
+          "lukic"
+        ],
+        "Ermin Mahmić": [
+          "ermin mahmic",
+          "ermin mahmić",
+          "mahmic"
+        ]
+      }
+    },
+    "Brazil": {
+      "aliases": [
+        "bra",
+        "brasil",
+        "brazil",
+        "brazilian",
+        "selecao",
+        "seleção"
+      ],
+      "manager": {
+        "name": "Carlo Ancelotti",
+        "aliases": [
+          "ancelotti",
+          "carlo ancelotti"
+        ]
+      },
+      "players": {
+        "Alisson": [
+          "alisson"
+        ],
+        "Éderson Silva": [
+          "ederson silva",
+          "silva",
+          "éderson silva"
+        ],
+        "Gabriel Magalhães": [
+          "gabriel magalhaes",
+          "gabriel magalhães",
+          "magalhaes"
+        ],
+        "Marquinhos": [
+          "marquinhos"
+        ],
+        "Casemiro": [
+          "casemiro"
+        ],
+        "Alex Sandro": [
+          "alex sandro",
+          "sandro"
+        ],
+        "Vinícius Júnior": [
+          "junior",
+          "vini",
+          "vini jr",
+          "vinicius",
+          "vinicius junior",
+          "vinícius júnior"
+        ],
+        "Bruno Guimarães": [
+          "bruno guimaraes",
+          "bruno guimarães",
+          "guimaraes"
+        ],
+        "Matheus Cunha": [
+          "cunha",
+          "matheus cunha"
+        ],
+        "Neymar": [
+          "neymar"
+        ],
+        "Raphinha": [
+          "raphinha"
+        ],
+        "Weverton": [
+          "weverton"
+        ],
+        "Danilo Luiz": [
+          "danilo luiz",
+          "luiz"
+        ],
+        "Bremer": [
+          "bremer"
+        ],
+        "Léo Pereira": [
+          "leo pereira",
+          "léo pereira",
+          "pereira"
+        ],
+        "Douglas Santos": [
+          "douglas santos",
+          "santos"
+        ],
+        "Fabinho": [
+          "fabinho"
+        ],
+        "Danilo Santos": [
+          "danilo santos",
+          "santos"
+        ],
+        "Endrick": [
+          "endrick"
+        ],
+        "Lucas Paquetá": [
+          "lucas paqueta",
+          "lucas paquetá",
+          "paqueta"
+        ],
+        "Luiz Henrique": [
+          "henrique",
+          "luiz henrique"
+        ],
+        "Gabriel Martinelli": [
+          "gabriel martinelli",
+          "martinelli"
+        ],
+        "Ederson Moraes": [
+          "ederson moraes",
+          "moraes"
+        ],
+        "Roger Ibañez": [
+          "ibanez",
+          "roger ibanez",
+          "roger ibañez"
+        ],
+        "Igor Thiago": [
+          "igor thiago",
+          "thiago"
+        ],
+        "Rayan": [
+          "rayan"
+        ]
+      }
+    },
+    "Canada": {
+      "aliases": [
+        "can",
+        "canada",
+        "canadian"
+      ],
+      "manager": {
+        "name": "Jesse Marsch",
+        "aliases": [
+          "jesse marsch",
+          "marsch"
+        ]
+      },
+      "players": {
+        "Dayne St. Clair": [
+          "clair",
+          "dayne st. clair"
+        ],
+        "Alistair Johnston": [
+          "alistair johnston",
+          "johnston"
+        ],
+        "Alfie Jones": [
+          "alfie jones",
+          "jones"
+        ],
+        "Luc de Fougerolles": [
+          "fougerolles",
+          "luc de fougerolles"
+        ],
+        "Joel Waterman": [
+          "joel waterman",
+          "waterman"
+        ],
+        "Mathieu Choinière": [
+          "choiniere",
+          "mathieu choiniere",
+          "mathieu choinière"
+        ],
+        "Stephen Eustáquio": [
+          "eustaquio",
+          "stephen eustaquio",
+          "stephen eustáquio"
+        ],
+        "Ismaël Koné": [
+          "ismael kone",
+          "ismaël koné",
+          "kone"
+        ],
+        "Cyle Larin": [
+          "cyle larin",
+          "larin"
+        ],
+        "Jonathan David": [
+          "david",
+          "jonathan david"
+        ],
+        "Liam Millar": [
+          "liam millar",
+          "millar"
+        ],
+        "Tani Oluwaseyi": [
+          "oluwaseyi",
+          "tani oluwaseyi"
+        ],
+        "Derek Cornelius": [
+          "cornelius",
+          "derek cornelius"
+        ],
+        "Jacob Shaffelburg": [
+          "jacob shaffelburg",
+          "shaffelburg"
+        ],
+        "Moïse Bombito": [
+          "bombito",
+          "moise bombito",
+          "moïse bombito"
+        ],
+        "Maxime Crépeau": [
+          "crepeau",
+          "maxime crepeau",
+          "maxime crépeau"
+        ],
+        "Tajon Buchanan": [
+          "buchanan",
+          "tajon buchanan"
+        ],
+        "Owen Goodman": [
+          "goodman",
+          "owen goodman"
+        ],
+        "Alphonso Davies": [
+          "alphonso davies",
+          "davies"
+        ],
+        "Ali Ahmed": [
+          "ahmed",
+          "ali ahmed"
+        ],
+        "Jonathan Osorio": [
+          "jonathan osorio",
+          "osorio"
+        ],
+        "Richie Laryea": [
+          "laryea",
+          "richie laryea"
+        ],
+        "Niko Sigur": [
+          "niko sigur",
+          "sigur"
+        ],
+        "Promise David": [
+          "david",
+          "promise david"
+        ],
+        "Nathan Saliba": [
+          "nathan saliba",
+          "saliba"
+        ],
+        "Jayden Nelson": [
+          "jayden nelson",
+          "nelson"
+        ]
+      }
+    },
+    "Cape Verde": {
+      "aliases": [
+        "cabo verde",
+        "cape verde",
+        "cape verdean",
+        "cpv"
+      ],
+      "manager": {
+        "name": "Bubista",
+        "aliases": [
+          "bubista"
+        ]
+      },
+      "players": {
+        "Vozinha": [
+          "vozinha"
+        ],
+        "Stopira": [
+          "stopira"
+        ],
+        "Diney": [
+          "diney"
+        ],
+        "Pico": [
+          "pico"
+        ],
+        "Logan Costa": [
+          "costa",
+          "logan costa"
+        ],
+        "Kevin Pina": [
+          "kevin pina",
+          "pina"
+        ],
+        "Jovane Cabral": [
+          "cabral",
+          "jovane cabral"
+        ],
+        "João Paulo": [
+          "joao paulo",
+          "joão paulo",
+          "paulo"
+        ],
+        "Gilson Benchimol": [
+          "benchimol",
+          "gilson benchimol"
+        ],
+        "Jamiro Monteiro": [
+          "jamiro monteiro",
+          "monteiro"
+        ],
+        "Garry Rodrigues": [
+          "garry rodrigues",
+          "rodrigues"
+        ],
+        "Márcio Rosa": [
+          "marcio rosa",
+          "márcio rosa",
+          "rosa"
+        ],
+        "Sidny Lopes Cabral": [
+          "cabral",
+          "sidny lopes cabral"
+        ],
+        "Deroy Duarte": [
+          "deroy duarte",
+          "duarte"
+        ],
+        "Laros Duarte": [
+          "duarte",
+          "laros duarte"
+        ],
+        "Yannick Semedo": [
+          "semedo",
+          "yannick semedo"
+        ],
+        "Willy Semedo": [
+          "semedo",
+          "willy semedo"
+        ],
+        "Telmo Arcanjo": [
+          "arcanjo",
+          "telmo arcanjo"
+        ],
+        "Dailon Livramento": [
+          "dailon livramento",
+          "livramento"
+        ],
+        "Ryan Mendes": [
+          "mendes",
+          "ryan mendes"
+        ],
+        "Nuno da Costa": [
+          "costa",
+          "nuno da costa"
+        ],
+        "Steven Moreira": [
+          "moreira",
+          "steven moreira"
+        ],
+        "CJ dos Santos": [
+          "cj dos santos",
+          "santos"
+        ],
+        "Wagner Pina": [
+          "pina",
+          "wagner pina"
+        ],
+        "Kelvin Pires": [
+          "kelvin pires",
+          "pires"
+        ],
+        "Hélio Varela": [
+          "helio varela",
+          "hélio varela",
+          "varela"
+        ]
+      }
+    },
+    "Colombia": {
+      "aliases": [
+        "col",
+        "colombia",
+        "colombian"
+      ],
+      "manager": {
+        "name": "Néstor Lorenzo",
+        "aliases": [
+          "lorenzo",
+          "nestor lorenzo",
+          "néstor lorenzo"
+        ]
+      },
+      "players": {
+        "David Ospina": [
+          "david ospina",
+          "ospina"
+        ],
+        "Daniel Muñoz": [
+          "daniel munoz",
+          "daniel muñoz",
+          "munoz"
+        ],
+        "Jhon Lucumí": [
+          "jhon lucumi",
+          "jhon lucumí",
+          "lucumi"
+        ],
+        "Santiago Arias": [
+          "arias",
+          "santiago arias"
+        ],
+        "Kevin Castaño": [
+          "castano",
+          "kevin castano",
+          "kevin castaño"
+        ],
+        "Richard Ríos": [
+          "richard rios",
+          "richard ríos",
+          "rios"
+        ],
+        "Luis Díaz": [
+          "diaz",
+          "luis diaz",
+          "luis díaz"
+        ],
+        "Jorge Carrascal": [
+          "carrascal",
+          "jorge carrascal"
+        ],
+        "Jhon Córdoba": [
+          "cordoba",
+          "jhon cordoba",
+          "jhon córdoba"
+        ],
+        "James Rodríguez": [
+          "james rodriguez",
+          "james rodríguez",
+          "rodriguez"
+        ],
+        "Jhon Arias": [
+          "arias",
+          "jhon arias"
+        ],
+        "Camilo Vargas": [
+          "camilo vargas",
+          "vargas"
+        ],
+        "Yerry Mina": [
+          "mina",
+          "yerry mina"
+        ],
+        "Gustavo Puerta": [
+          "gustavo puerta",
+          "puerta"
+        ],
+        "Juan Portilla": [
+          "juan portilla",
+          "portilla"
+        ],
+        "Jefferson Lerma": [
+          "jefferson lerma",
+          "lerma"
+        ],
+        "Johan Mojica": [
+          "johan mojica",
+          "mojica"
+        ],
+        "Willer Ditta": [
+          "ditta",
+          "willer ditta"
+        ],
+        "Cucho Hernández": [
+          "cucho hernandez",
+          "cucho hernández",
+          "hernandez"
+        ],
+        "Juan Fernando Quintero": [
+          "juan fernando quintero",
+          "quintero"
+        ],
+        "Jaminton Campaz": [
+          "campaz",
+          "jaminton campaz"
+        ],
+        "Deiver Machado": [
+          "deiver machado",
+          "machado"
+        ],
+        "Davinson Sánchez": [
+          "davinson sanchez",
+          "davinson sánchez",
+          "sanchez"
+        ],
+        "Álvaro Montero": [
+          "alvaro montero",
+          "montero",
+          "álvaro montero"
+        ],
+        "Luis Suárez": [
+          "luis suarez",
+          "luis suárez",
+          "suarez"
+        ],
+        "Andrés Gómez": [
+          "andres gomez",
+          "andrés gómez",
+          "gomez"
+        ]
+      }
+    },
+    "Croatia": {
+      "aliases": [
+        "cro",
+        "croatia",
+        "croatian"
+      ],
+      "manager": {
+        "name": "Zlatko Dalić",
+        "aliases": [
+          "dalic",
+          "zlatko dalic",
+          "zlatko dalić"
+        ]
+      },
+      "players": {
+        "Dominik Livaković": [
+          "dominik livakovic",
+          "dominik livaković",
+          "livakovic"
+        ],
+        "Josip Stanišić": [
+          "josip stanisic",
+          "josip stanišić",
+          "stanisic"
+        ],
+        "Marin Pongračić": [
+          "marin pongracic",
+          "marin pongračić",
+          "pongracic"
+        ],
+        "Joško Gvardiol": [
+          "gvardiol",
+          "josko gvardiol",
+          "joško gvardiol"
+        ],
+        "Duje Ćaleta-Car": [
+          "caleta-car",
+          "duje caleta-car",
+          "duje ćaleta-car"
+        ],
+        "Josip Šutalo": [
+          "josip sutalo",
+          "josip šutalo",
+          "sutalo"
+        ],
+        "Nikola Moro": [
+          "moro",
+          "nikola moro"
+        ],
+        "Mateo Kovačić": [
+          "kovacic",
+          "mateo kovacic",
+          "mateo kovačić"
+        ],
+        "Andrej Kramarić": [
+          "andrej kramaric",
+          "andrej kramarić",
+          "kramaric"
+        ],
+        "Luka Modrić": [
+          "luka modric",
+          "luka modrić",
+          "modric"
+        ],
+        "Ante Budimir": [
+          "ante budimir",
+          "budimir"
+        ],
+        "Ivor Pandur": [
+          "ivor pandur",
+          "pandur"
+        ],
+        "Nikola Vlašić": [
+          "nikola vlasic",
+          "nikola vlašić",
+          "vlasic"
+        ],
+        "Ivan Perišić": [
+          "ivan perisic",
+          "ivan perišić",
+          "perisic"
+        ],
+        "Mario Pašalić": [
+          "mario pasalic",
+          "mario pašalić",
+          "pasalic"
+        ],
+        "Martin Baturina": [
+          "baturina",
+          "martin baturina"
+        ],
+        "Petar Sučić": [
+          "petar sucic",
+          "petar sučić",
+          "sucic"
+        ],
+        "Kristijan Jakić": [
+          "jakic",
+          "kristijan jakic",
+          "kristijan jakić"
+        ],
+        "Toni Fruk": [
+          "fruk",
+          "toni fruk"
+        ],
+        "Igor Matanović": [
+          "igor matanovic",
+          "igor matanović",
+          "matanovic"
+        ],
+        "Luka Sučić": [
+          "luka sucic",
+          "luka sučić",
+          "sucic"
+        ],
+        "Luka Vušković": [
+          "luka vuskovic",
+          "luka vušković",
+          "vuskovic"
+        ],
+        "Dominik Kotarski": [
+          "dominik kotarski",
+          "kotarski"
+        ],
+        "Marco Pašalić": [
+          "marco pasalic",
+          "marco pašalić",
+          "pasalic"
+        ],
+        "Martin Erlić": [
+          "erlic",
+          "martin erlic",
+          "martin erlić"
+        ],
+        "Petar Musa": [
+          "musa",
+          "petar musa"
+        ]
+      }
+    },
+    "Curaçao": {
+      "aliases": [
+        "curacao",
+        "curaçao",
+        "cuw"
+      ],
+      "manager": {
+        "name": "Dick Advocaat",
+        "aliases": [
+          "advocaat",
+          "dick advocaat"
+        ]
+      },
+      "players": {
+        "Eloy Room": [
+          "eloy room",
+          "room"
+        ],
+        "Shurandy Sambo": [
+          "sambo",
+          "shurandy sambo"
+        ],
+        "Juriën Gaari": [
+          "gaari",
+          "jurien gaari",
+          "juriën gaari"
+        ],
+        "Roshon van Eijma": [
+          "eijma",
+          "roshon van eijma"
+        ],
+        "Sherel Floranus": [
+          "floranus",
+          "sherel floranus"
+        ],
+        "Godfried Roemeratoe": [
+          "godfried roemeratoe",
+          "roemeratoe"
+        ],
+        "Juninho Bacuna": [
+          "bacuna",
+          "juninho bacuna"
+        ],
+        "Livano Comenencia": [
+          "comenencia",
+          "livano comenencia"
+        ],
+        "Jürgen Locadia": [
+          "jurgen locadia",
+          "jürgen locadia",
+          "locadia"
+        ],
+        "Leandro Bacuna": [
+          "bacuna",
+          "leandro bacuna"
+        ],
+        "Jeremy Antonisse": [
+          "antonisse",
+          "jeremy antonisse"
+        ],
+        "Sontje Hansen": [
+          "hansen",
+          "sontje hansen"
+        ],
+        "Tyrese Noslin": [
+          "noslin",
+          "tyrese noslin"
+        ],
+        "Kenji Gorré": [
+          "gorre",
+          "kenji gorre",
+          "kenji gorré"
+        ],
+        "Ar'jany Martha": [
+          "ar'jany martha",
+          "martha"
+        ],
+        "Jearl Margaritha": [
+          "jearl margaritha",
+          "margaritha"
+        ],
+        "Brandley Kuwas": [
+          "brandley kuwas",
+          "kuwas"
+        ],
+        "Armando Obispo": [
+          "armando obispo",
+          "obispo"
+        ],
+        "Gervane Kastaneer": [
+          "gervane kastaneer",
+          "kastaneer"
+        ],
+        "Joshua Brenet": [
+          "brenet",
+          "joshua brenet"
+        ],
+        "Tahith Chong": [
+          "chong",
+          "tahith chong"
+        ],
+        "Kevin Felida": [
+          "felida",
+          "kevin felida"
+        ],
+        "Riechedly Bazoer": [
+          "bazoer",
+          "riechedly bazoer"
+        ],
+        "Deveron Fonville": [
+          "deveron fonville",
+          "fonville"
+        ],
+        "Tyrick Bodak": [
+          "bodak",
+          "tyrick bodak"
+        ],
+        "Trevor Doornbusch": [
+          "doornbusch",
+          "trevor doornbusch"
+        ]
+      }
+    },
+    "Czech Republic": {
+      "aliases": [
+        "cze",
+        "czech",
+        "czech republic",
+        "czechia"
+      ],
+      "manager": {
+        "name": "Miroslav Koubek",
+        "aliases": [
+          "koubek",
+          "miroslav koubek"
+        ]
+      },
+      "players": {
+        "Matěj Kovář": [
+          "kovar",
+          "matej kovar",
+          "matěj kovář"
+        ],
+        "David Zima": [
+          "david zima",
+          "zima"
+        ],
+        "Tomáš Holeš": [
+          "holes",
+          "tomas holes",
+          "tomáš holeš"
+        ],
+        "Robin Hranáč": [
+          "hranac",
+          "robin hranac",
+          "robin hranáč"
+        ],
+        "Vladimír Coufal": [
+          "coufal",
+          "vladimir coufal",
+          "vladimír coufal"
+        ],
+        "Štěpán Chaloupek": [
+          "chaloupek",
+          "stepan chaloupek",
+          "štěpán chaloupek"
+        ],
+        "Ladislav Krejčí": [
+          "krejci",
+          "ladislav krejci",
+          "ladislav krejčí"
+        ],
+        "Vladimír Darida": [
+          "darida",
+          "vladimir darida",
+          "vladimír darida"
+        ],
+        "Adam Hložek": [
+          "adam hlozek",
+          "adam hložek",
+          "hlozek"
+        ],
+        "Patrik Schick": [
+          "patrik schick",
+          "schick"
+        ],
+        "Jan Kuchta": [
+          "jan kuchta",
+          "kuchta"
+        ],
+        "Lukáš Červ": [
+          "cerv",
+          "lukas cerv",
+          "lukáš červ"
+        ],
+        "Mojmír Chytil": [
+          "chytil",
+          "mojmir chytil",
+          "mojmír chytil"
+        ],
+        "David Jurásek": [
+          "david jurasek",
+          "david jurásek",
+          "jurasek"
+        ],
+        "Pavel Šulc": [
+          "pavel sulc",
+          "pavel šulc",
+          "sulc"
+        ],
+        "Jindřich Staněk": [
+          "jindrich stanek",
+          "jindřich staněk",
+          "stanek"
+        ],
+        "Lukáš Provod": [
+          "lukas provod",
+          "lukáš provod",
+          "provod"
+        ],
+        "Michal Sadílek": [
+          "michal sadilek",
+          "michal sadílek",
+          "sadilek"
+        ],
+        "Tomáš Chorý": [
+          "chory",
+          "tomas chory",
+          "tomáš chorý"
+        ],
+        "Jaroslav Zelený": [
+          "jaroslav zeleny",
+          "jaroslav zelený",
+          "zeleny"
+        ],
+        "David Douděra": [
+          "david doudera",
+          "david douděra",
+          "doudera"
+        ],
+        "Tomáš Souček": [
+          "soucek",
+          "tomas soucek",
+          "tomáš souček"
+        ],
+        "Lukáš Horníček": [
+          "hornicek",
+          "lukas hornicek",
+          "lukáš horníček"
+        ],
+        "Alexandr Sojka": [
+          "alexandr sojka",
+          "sojka"
+        ],
+        "Hugo Sochůrek": [
+          "hugo sochurek",
+          "hugo sochůrek",
+          "sochurek"
+        ],
+        "Denis Višinský": [
+          "denis visinsky",
+          "denis višinský",
+          "visinsky"
+        ]
+      }
+    },
+    "DR Congo": {
+      "aliases": [
+        "cod",
+        "congo",
+        "democratic republic of congo",
+        "dr congo",
+        "drc"
+      ],
+      "manager": {
+        "name": "Sébastien Desabre",
+        "aliases": [
+          "desabre",
+          "sebastien desabre",
+          "sébastien desabre"
+        ]
+      },
+      "players": {
+        "Lionel Mpasi": [
+          "lionel mpasi",
+          "mpasi"
+        ],
+        "Aaron Wan-Bissaka": [
+          "aaron wan-bissaka",
+          "wan-bissaka"
+        ],
+        "Steve Kapuadi": [
+          "kapuadi",
+          "steve kapuadi"
+        ],
+        "Axel Tuanzebe": [
+          "axel tuanzebe",
+          "tuanzebe"
+        ],
+        "Dylan Batubinsika": [
+          "batubinsika",
+          "dylan batubinsika"
+        ],
+        "Ngal'ayel Mukau": [
+          "mukau",
+          "ngal'ayel mukau"
+        ],
+        "Nathanaël Mbuku": [
+          "mbuku",
+          "nathanael mbuku",
+          "nathanaël mbuku"
+        ],
+        "Samuel Moutoussamy": [
+          "moutoussamy",
+          "samuel moutoussamy"
+        ],
+        "Brian Cipenga": [
+          "brian cipenga",
+          "cipenga"
+        ],
+        "Théo Bongonda": [
+          "bongonda",
+          "theo bongonda",
+          "théo bongonda"
+        ],
+        "Gaël Kakuta": [
+          "gael kakuta",
+          "gaël kakuta",
+          "kakuta"
+        ],
+        "Joris Kayembe": [
+          "joris kayembe",
+          "kayembe"
+        ],
+        "Meschak Elia": [
+          "elia",
+          "meschak elia"
+        ],
+        "Noah Sadiki": [
+          "noah sadiki",
+          "sadiki"
+        ],
+        "Aaron Tshibola": [
+          "aaron tshibola",
+          "tshibola"
+        ],
+        "Timothy Fayulu": [
+          "fayulu",
+          "timothy fayulu"
+        ],
+        "Cédric Bakambu": [
+          "bakambu",
+          "cedric bakambu",
+          "cédric bakambu"
+        ],
+        "Charles Pickel": [
+          "charles pickel",
+          "pickel"
+        ],
+        "Fiston Mayele": [
+          "fiston mayele",
+          "mayele"
+        ],
+        "Yoane Wissa": [
+          "wissa",
+          "yoane wissa"
+        ],
+        "Matthieu Epolo": [
+          "epolo",
+          "matthieu epolo"
+        ],
+        "Chancel Mbemba": [
+          "chancel mbemba",
+          "mbemba"
+        ],
+        "Simon Banza": [
+          "banza",
+          "simon banza"
+        ],
+        "Gédéon Kalulu": [
+          "gedeon kalulu",
+          "gédéon kalulu",
+          "kalulu"
+        ],
+        "Edo Kayembe": [
+          "edo kayembe",
+          "kayembe"
+        ],
+        "Arthur Masuaku": [
+          "arthur masuaku",
+          "masuaku"
+        ]
+      }
+    },
+    "Ecuador": {
+      "aliases": [
+        "ecu",
+        "ecuador",
+        "ecuadorian"
+      ],
+      "manager": {
+        "name": "Sebastián Beccacece",
+        "aliases": [
+          "beccacece",
+          "sebastian beccacece",
+          "sebastián beccacece"
+        ]
+      },
+      "players": {
+        "Hernán Galíndez": [
+          "galindez",
+          "hernan galindez",
+          "hernán galíndez"
+        ],
+        "Félix Torres": [
+          "felix torres",
+          "félix torres",
+          "torres"
+        ],
+        "Piero Hincapié": [
+          "hincapie",
+          "piero hincapie",
+          "piero hincapié"
+        ],
+        "Joel Ordóñez": [
+          "joel ordonez",
+          "joel ordóñez",
+          "ordonez"
+        ],
+        "Jordy Alcívar": [
+          "alcivar",
+          "jordy alcivar",
+          "jordy alcívar"
+        ],
+        "Willian Pacho": [
+          "pacho",
+          "willian pacho"
+        ],
+        "Pervis Estupiñán": [
+          "estupinan",
+          "pervis estupinan",
+          "pervis estupiñán"
+        ],
+        "Anthony Valencia": [
+          "anthony valencia",
+          "valencia"
+        ],
+        "John Yeboah": [
+          "john yeboah",
+          "yeboah"
+        ],
+        "Kendry Páez": [
+          "kendry paez",
+          "kendry páez",
+          "paez"
+        ],
+        "Kevin Rodríguez": [
+          "kevin rodriguez",
+          "kevin rodríguez",
+          "rodriguez"
+        ],
+        "Moisés Ramírez": [
+          "moises ramirez",
+          "moisés ramírez",
+          "ramirez"
+        ],
+        "Enner Valencia": [
+          "enner valencia",
+          "valencia"
+        ],
+        "Alan Minda": [
+          "alan minda",
+          "minda"
+        ],
+        "Pedro Vite": [
+          "pedro vite",
+          "vite"
+        ],
+        "Jordy Caicedo": [
+          "caicedo",
+          "jordy caicedo"
+        ],
+        "Ángelo Preciado": [
+          "angelo preciado",
+          "preciado",
+          "ángelo preciado"
+        ],
+        "Denil Castillo": [
+          "castillo",
+          "denil castillo"
+        ],
+        "Gonzalo Plata": [
+          "gonzalo plata",
+          "plata"
+        ],
+        "Nilson Angulo": [
+          "angulo",
+          "nilson angulo"
+        ],
+        "Alan Franco": [
+          "alan franco",
+          "franco"
+        ],
+        "Gonzalo Valle": [
+          "gonzalo valle",
+          "valle"
+        ],
+        "Moisés Caicedo": [
+          "caicedo",
+          "moises caicedo",
+          "moisés caicedo"
+        ],
+        "Jeremy Arévalo": [
+          "arevalo",
+          "jeremy arevalo",
+          "jeremy arévalo"
+        ],
+        "Jackson Porozo": [
+          "jackson porozo",
+          "porozo"
+        ],
+        "Yaimar Medina": [
+          "medina",
+          "yaimar medina"
+        ]
+      }
+    },
+    "Egypt": {
+      "aliases": [
+        "egy",
+        "egypt",
+        "egyptian"
+      ],
+      "manager": {
+        "name": "Hossam Hassan",
+        "aliases": [
+          "hassan",
+          "hossam hassan"
+        ]
+      },
+      "players": {
+        "Mohamed El Shenawy": [
+          "mohamed el shenawy",
+          "shenawy"
+        ],
+        "Yasser Ibrahim": [
+          "ibrahim",
+          "yasser ibrahim"
+        ],
+        "Mohamed Hany": [
+          "hany",
+          "mohamed hany"
+        ],
+        "Hossam Abdelmaguid": [
+          "abdelmaguid",
+          "hossam abdelmaguid"
+        ],
+        "Ramy Rabia": [
+          "rabia",
+          "ramy rabia"
+        ],
+        "Mohamed Abdelmonem": [
+          "abdelmonem",
+          "mohamed abdelmonem"
+        ],
+        "Trézéguet": [
+          "trezeguet",
+          "trézéguet"
+        ],
+        "Emam Ashour": [
+          "ashour",
+          "emam ashour"
+        ],
+        "Hamza Abdelkarim": [
+          "abdelkarim",
+          "hamza abdelkarim"
+        ],
+        "Mohamed Salah": [
+          "mohamed salah",
+          "salah"
+        ],
+        "Mostafa Ziko": [
+          "mostafa ziko",
+          "ziko"
+        ],
+        "Haissem Hassan": [
+          "haissem hassan",
+          "hassan"
+        ],
+        "Ahmed Fatouh": [
+          "ahmed fatouh",
+          "fatouh"
+        ],
+        "Hamdy Fathy": [
+          "fathy",
+          "hamdy fathy"
+        ],
+        "Karim Hafez": [
+          "hafez",
+          "karim hafez"
+        ],
+        "El Mahdy Soliman": [
+          "el mahdy soliman",
+          "soliman"
+        ],
+        "Mohanad Lasheen": [
+          "lasheen",
+          "mohanad lasheen"
+        ],
+        "Nabil Emad": [
+          "emad",
+          "nabil emad"
+        ],
+        "Marwan Attia": [
+          "attia",
+          "marwan attia"
+        ],
+        "Ibrahim Adel": [
+          "adel",
+          "ibrahim adel"
+        ],
+        "Mahmoud Saber": [
+          "mahmoud saber",
+          "saber"
+        ],
+        "Omar Marmoush": [
+          "marmoush",
+          "omar marmoush"
+        ],
+        "Mostafa Shobeir": [
+          "mostafa shobeir",
+          "shobeir"
+        ],
+        "Tarek Alaa": [
+          "alaa",
+          "tarek alaa"
+        ],
+        "Zizo": [
+          "zizo"
+        ],
+        "Mohamed Alaa": [
+          "alaa",
+          "mohamed alaa"
+        ]
+      }
+    },
+    "England": {
+      "aliases": [
+        "eng",
+        "england",
+        "english",
+        "three lions"
+      ],
+      "manager": {
+        "name": "Thomas Tuchel",
+        "aliases": [
+          "thomas tuchel",
+          "tuchel"
+        ]
+      },
+      "players": {
+        "Jordan Pickford": [
+          "jordan pickford",
+          "pickford"
+        ],
+        "Ezri Konsa": [
+          "ezri konsa",
+          "konsa"
+        ],
+        "Nico O'Reilly": [
+          "nico o'reilly",
+          "o'reilly"
+        ],
+        "Declan Rice": [
+          "declan rice",
+          "rice"
+        ],
+        "John Stones": [
+          "john stones",
+          "stones"
+        ],
+        "Marc Guéhi": [
+          "guehi",
+          "marc guehi",
+          "marc guéhi"
+        ],
+        "Bukayo Saka": [
+          "bukayo saka",
+          "saka"
+        ],
+        "Elliot Anderson": [
+          "anderson",
+          "elliot anderson"
+        ],
+        "Harry Kane": [
+          "harry kane",
+          "kane"
+        ],
+        "Jude Bellingham": [
+          "bellingham",
+          "jude bellingham"
+        ],
+        "Marcus Rashford": [
+          "marcus rashford",
+          "rashford"
+        ],
+        "Trevoh Chalobah": [
+          "chalobah",
+          "trevoh chalobah"
+        ],
+        "Dean Henderson": [
+          "dean henderson",
+          "henderson"
+        ],
+        "Jordan Henderson": [
+          "henderson",
+          "jordan henderson"
+        ],
+        "Dan Burn": [
+          "burn",
+          "dan burn"
+        ],
+        "Kobbie Mainoo": [
+          "kobbie mainoo",
+          "mainoo"
+        ],
+        "Morgan Rogers": [
+          "morgan rogers",
+          "rogers"
+        ],
+        "Anthony Gordon": [
+          "anthony gordon",
+          "gordon"
+        ],
+        "Ollie Watkins": [
+          "ollie watkins",
+          "watkins"
+        ],
+        "Noni Madueke": [
+          "madueke",
+          "noni madueke"
+        ],
+        "Eberechi Eze": [
+          "eberechi eze"
+        ],
+        "Ivan Toney": [
+          "ivan toney",
+          "toney"
+        ],
+        "James Trafford": [
+          "james trafford",
+          "trafford"
+        ],
+        "Reece James": [
+          "james",
+          "reece james"
+        ],
+        "Djed Spence": [
+          "djed spence",
+          "spence"
+        ],
+        "Jarell Quansah": [
+          "jarell quansah",
+          "quansah"
+        ]
+      }
+    },
+    "France": {
+      "aliases": [
+        "fra",
+        "france",
+        "french",
+        "les bleus"
+      ],
+      "manager": {
+        "name": "Didier Deschamps",
+        "aliases": [
+          "deschamps",
+          "didier deschamps"
+        ]
+      },
+      "players": {
+        "Brice Samba": [
+          "brice samba",
+          "samba"
+        ],
+        "Malo Gusto": [
+          "gusto",
+          "malo gusto"
+        ],
+        "Lucas Digne": [
+          "digne",
+          "lucas digne"
+        ],
+        "Dayot Upamecano": [
+          "dayot upamecano",
+          "upamecano"
+        ],
+        "Jules Koundé": [
+          "jules kounde",
+          "jules koundé",
+          "kounde"
+        ],
+        "Manu Koné": [
+          "kone",
+          "manu kone",
+          "manu koné"
+        ],
+        "Ousmane Dembélé": [
+          "dembele",
+          "ousmane dembele",
+          "ousmane dembélé"
+        ],
+        "Aurélien Tchouaméni": [
+          "aurelien tchouameni",
+          "aurélien tchouaméni",
+          "tchouameni"
+        ],
+        "Marcus Thuram": [
+          "marcus thuram",
+          "thuram"
+        ],
+        "Kylian Mbappé": [
+          "kylian",
+          "kylian mbappe",
+          "kylian mbappé",
+          "mbappe",
+          "mbappé"
+        ],
+        "Michael Olise": [
+          "michael olise",
+          "olise"
+        ],
+        "Bradley Barcola": [
+          "barcola",
+          "bradley barcola"
+        ],
+        "N'Golo Kanté": [
+          "kante",
+          "n'golo kante",
+          "n'golo kanté"
+        ],
+        "Adrien Rabiot": [
+          "adrien rabiot",
+          "rabiot"
+        ],
+        "Ibrahima Konaté": [
+          "ibrahima konate",
+          "ibrahima konaté",
+          "konate"
+        ],
+        "Mike Maignan": [
+          "maignan",
+          "mike maignan"
+        ],
+        "William Saliba": [
+          "saliba",
+          "william saliba"
+        ],
+        "Warren Zaïre-Emery": [
+          "warren zaire-emery",
+          "warren zaïre-emery",
+          "zaire-emery"
+        ],
+        "Théo Hernandez": [
+          "hernandez",
+          "theo hernandez",
+          "théo hernandez"
+        ],
+        "Désiré Doué": [
+          "desire doue",
+          "doue",
+          "désiré doué"
+        ],
+        "Lucas Hernandez": [
+          "hernandez",
+          "lucas hernandez"
+        ],
+        "Jean-Philippe Mateta": [
+          "jean-philippe mateta",
+          "mateta"
+        ],
+        "Robin Risser": [
+          "risser",
+          "robin risser"
+        ],
+        "Rayan Cherki": [
+          "cherki",
+          "rayan cherki"
+        ],
+        "Maghnes Akliouche": [
+          "akliouche",
+          "maghnes akliouche"
+        ],
+        "Maxence Lacroix": [
+          "lacroix",
+          "maxence lacroix"
+        ]
+      }
+    },
+    "Germany": {
+      "aliases": [
+        "deu",
+        "ger",
+        "german",
+        "germany"
+      ],
+      "manager": {
+        "name": "Julian Nagelsmann",
+        "aliases": [
+          "julian nagelsmann",
+          "nagelsmann"
+        ]
+      },
+      "players": {
+        "Manuel Neuer": [
+          "manuel neuer",
+          "neuer"
+        ],
+        "Antonio Rüdiger": [
+          "antonio rudiger",
+          "antonio rüdiger",
+          "rudiger"
+        ],
+        "Waldemar Anton": [
+          "anton",
+          "waldemar anton"
+        ],
+        "Jonathan Tah": [
+          "jonathan tah"
+        ],
+        "Aleksandar Pavlović": [
+          "aleksandar pavlovic",
+          "aleksandar pavlović",
+          "pavlovic"
+        ],
+        "Joshua Kimmich": [
+          "joshua kimmich",
+          "kimmich"
+        ],
+        "Kai Havertz": [
+          "havertz",
+          "kai havertz"
+        ],
+        "Leon Goretzka": [
+          "goretzka",
+          "leon goretzka"
+        ],
+        "Jamie Leweling": [
+          "jamie leweling",
+          "leweling"
+        ],
+        "Jamal Musiala": [
+          "jamal musiala",
+          "musiala"
+        ],
+        "Nick Woltemade": [
+          "nick woltemade",
+          "woltemade"
+        ],
+        "Oliver Baumann": [
+          "baumann",
+          "oliver baumann"
+        ],
+        "Pascal Groß": [
+          "pascal gro",
+          "pascal groß"
+        ],
+        "Maximilian Beier": [
+          "beier",
+          "maximilian beier"
+        ],
+        "Nico Schlotterbeck": [
+          "nico schlotterbeck",
+          "schlotterbeck"
+        ],
+        "Angelo Stiller": [
+          "angelo stiller",
+          "stiller"
+        ],
+        "Florian Wirtz": [
+          "florian wirtz",
+          "wirtz"
+        ],
+        "Nathaniel Brown": [
+          "brown",
+          "nathaniel brown"
+        ],
+        "Leroy Sané": [
+          "leroy sane",
+          "leroy sané",
+          "sane"
+        ],
+        "Nadiem Amiri": [
+          "amiri",
+          "nadiem amiri"
+        ],
+        "Alexander Nübel": [
+          "alexander nubel",
+          "alexander nübel",
+          "nubel"
+        ],
+        "David Raum": [
+          "david raum",
+          "raum"
+        ],
+        "Felix Nmecha": [
+          "felix nmecha",
+          "nmecha"
+        ],
+        "Malick Thiaw": [
+          "malick thiaw",
+          "thiaw"
+        ],
+        "Assan Ouédraogo": [
+          "assan ouedraogo",
+          "assan ouédraogo",
+          "ouedraogo"
+        ],
+        "Deniz Undav": [
+          "deniz undav",
+          "undav"
+        ]
+      }
+    },
+    "Ghana": {
+      "aliases": [
+        "gha",
+        "ghana",
+        "ghanaian"
+      ],
+      "manager": {
+        "name": "Carlos Queiroz",
+        "aliases": [
+          "carlos queiroz",
+          "queiroz"
+        ]
+      },
+      "players": {
+        "Lawrence Ati-Zigi": [
+          "ati-zigi",
+          "lawrence ati-zigi"
+        ],
+        "Alidu Seidu": [
+          "alidu seidu",
+          "seidu"
+        ],
+        "Caleb Yirenkyi": [
+          "caleb yirenkyi",
+          "yirenkyi"
+        ],
+        "Jonas Adjetey": [
+          "adjetey",
+          "jonas adjetey"
+        ],
+        "Thomas Partey": [
+          "partey",
+          "thomas partey"
+        ],
+        "Abdul Mumin": [
+          "abdul mumin",
+          "mumin"
+        ],
+        "Abdul Fatawu": [
+          "abdul fatawu",
+          "fatawu"
+        ],
+        "Kwasi Sibo": [
+          "kwasi sibo",
+          "sibo"
+        ],
+        "Jordan Ayew": [
+          "ayew",
+          "jordan ayew"
+        ],
+        "Brandon Thomas-Asante": [
+          "brandon thomas-asante",
+          "thomas-asante"
+        ],
+        "Antoine Semenyo": [
+          "antoine semenyo",
+          "semenyo"
+        ],
+        "Joseph Anang": [
+          "anang",
+          "joseph anang"
+        ],
+        "Christopher Bonsu Baah": [
+          "baah",
+          "christopher bonsu baah"
+        ],
+        "Gideon Mensah": [
+          "gideon mensah",
+          "mensah"
+        ],
+        "Elisha Owusu": [
+          "elisha owusu",
+          "owusu"
+        ],
+        "Benjamin Asare": [
+          "asare",
+          "benjamin asare"
+        ],
+        "Abdul Rahman Baba": [
+          "abdul rahman baba",
+          "baba"
+        ],
+        "Jerome Opoku": [
+          "jerome opoku",
+          "opoku"
+        ],
+        "Iñaki Williams": [
+          "inaki williams",
+          "iñaki williams",
+          "williams"
+        ],
+        "Augustine Boakye": [
+          "augustine boakye",
+          "boakye"
+        ],
+        "Kojo Peprah Oppong": [
+          "kojo peprah oppong",
+          "oppong"
+        ],
+        "Kamaldeen Sulemana": [
+          "kamaldeen sulemana",
+          "sulemana"
+        ],
+        "Derrick Luckassen": [
+          "derrick luckassen",
+          "luckassen"
+        ],
+        "Ernest Nuamah": [
+          "ernest nuamah",
+          "nuamah"
+        ],
+        "Prince Kwabena Adu": [
+          "prince kwabena adu"
+        ],
+        "Marvin Senaya": [
+          "marvin senaya",
+          "senaya"
+        ]
+      }
+    },
+    "Haiti": {
+      "aliases": [
+        "hai",
+        "haiti",
+        "haitian"
+      ],
+      "manager": {
+        "name": "Sébastien Migné",
+        "aliases": [
+          "migne",
+          "sebastien migne",
+          "sébastien migné"
+        ]
+      },
+      "players": {
+        "Johny Placide": [
+          "johny placide",
+          "placide"
+        ],
+        "Carlens Arcus": [
+          "arcus",
+          "carlens arcus"
+        ],
+        "Keeto Thermoncy": [
+          "keeto thermoncy",
+          "thermoncy"
+        ],
+        "Ricardo Adé": [
+          "ricardo ade",
+          "ricardo adé"
+        ],
+        "Hannes Delcroix": [
+          "delcroix",
+          "hannes delcroix"
+        ],
+        "Carl Sainté": [
+          "carl sainte",
+          "carl sainté",
+          "sainte"
+        ],
+        "Derrick Etienne Jr.": [
+          "derrick etienne jr."
+        ],
+        "Martin Expérience": [
+          "experience",
+          "martin experience",
+          "martin expérience"
+        ],
+        "Duckens Nazon": [
+          "duckens nazon",
+          "nazon"
+        ],
+        "Jean-Ricner Bellegarde": [
+          "bellegarde",
+          "jean-ricner bellegarde"
+        ],
+        "Louicius Deedson": [
+          "deedson",
+          "louicius deedson"
+        ],
+        "Alexandre Pierre": [
+          "alexandre pierre",
+          "pierre"
+        ],
+        "Duke Lacroix": [
+          "duke lacroix",
+          "lacroix"
+        ],
+        "Garven Metusala": [
+          "garven metusala",
+          "metusala"
+        ],
+        "Ruben Providence": [
+          "providence",
+          "ruben providence"
+        ],
+        "Lenny Joseph": [
+          "joseph",
+          "lenny joseph"
+        ],
+        "Danley Jean Jacques": [
+          "danley jean jacques",
+          "jacques"
+        ],
+        "Wilson Isidor": [
+          "isidor",
+          "wilson isidor"
+        ],
+        "Yassin Fortuné": [
+          "fortune",
+          "yassin fortune",
+          "yassin fortuné"
+        ],
+        "Frantzdy Pierrot": [
+          "frantzdy pierrot",
+          "pierrot"
+        ],
+        "Josué Casimir": [
+          "casimir",
+          "josue casimir",
+          "josué casimir"
+        ],
+        "Jean-Kévin Duverne": [
+          "duverne",
+          "jean-kevin duverne",
+          "jean-kévin duverne"
+        ],
+        "Josué Duverger": [
+          "duverger",
+          "josue duverger",
+          "josué duverger"
+        ],
+        "Wilguens Paugain": [
+          "paugain",
+          "wilguens paugain"
+        ],
+        "Dominique Simon": [
+          "dominique simon",
+          "simon"
+        ],
+        "Woodensky Pierre": [
+          "pierre",
+          "woodensky pierre"
+        ]
+      }
+    },
+    "Iran": {
+      "aliases": [
+        "iran",
+        "iranian",
+        "irn"
+      ],
+      "manager": {
+        "name": "Amir Ghalenoei",
+        "aliases": [
+          "amir ghalenoei",
+          "ghalenoei"
+        ]
+      },
+      "players": {
+        "Alireza Beiranvand": [
+          "alireza beiranvand",
+          "beiranvand"
+        ],
+        "Saleh Hardani": [
+          "hardani",
+          "saleh hardani"
+        ],
+        "Ehsan Hajsafi": [
+          "ehsan hajsafi",
+          "hajsafi"
+        ],
+        "Shojae Khalilzadeh": [
+          "khalilzadeh",
+          "shojae khalilzadeh"
+        ],
+        "Milad Mohammadi": [
+          "milad mohammadi",
+          "mohammadi"
+        ],
+        "Saeid Ezatolahi": [
+          "ezatolahi",
+          "saeid ezatolahi"
+        ],
+        "Alireza Jahanbakhsh": [
+          "alireza jahanbakhsh",
+          "jahanbakhsh"
+        ],
+        "Mohammad Mohebi": [
+          "mohammad mohebi",
+          "mohebi"
+        ],
+        "Mehdi Taremi": [
+          "mehdi taremi",
+          "taremi"
+        ],
+        "Mehdi Ghayedi": [
+          "ghayedi",
+          "mehdi ghayedi"
+        ],
+        "Ali Alipour": [
+          "ali alipour",
+          "alipour"
+        ],
+        "Payam Niazmand": [
+          "niazmand",
+          "payam niazmand"
+        ],
+        "Hossein Kanaanizadegan": [
+          "hossein kanaanizadegan",
+          "kanaanizadegan"
+        ],
+        "Saman Ghoddos": [
+          "ghoddos",
+          "saman ghoddos"
+        ],
+        "Rouzbeh Cheshmi": [
+          "cheshmi",
+          "rouzbeh cheshmi"
+        ],
+        "Mahdi Torabi": [
+          "mahdi torabi",
+          "torabi"
+        ],
+        "Arya Yousefi": [
+          "arya yousefi",
+          "yousefi"
+        ],
+        "Amirhossein Hosseinzadeh": [
+          "amirhossein hosseinzadeh",
+          "hosseinzadeh"
+        ],
+        "Ali Nemati": [
+          "ali nemati",
+          "nemati"
+        ],
+        "Shahriyar Moghanlou": [
+          "moghanlou",
+          "shahriyar moghanlou"
+        ],
+        "Mohammad Ghorbani": [
+          "ghorbani",
+          "mohammad ghorbani"
+        ],
+        "Hossein Hosseini": [
+          "hossein hosseini",
+          "hosseini"
+        ],
+        "Ramin Rezaeian": [
+          "ramin rezaeian",
+          "rezaeian"
+        ],
+        "Dennis Eckert": [
+          "dennis eckert",
+          "eckert"
+        ],
+        "Danial Eiri": [
+          "danial eiri",
+          "eiri"
+        ],
+        "Amirmohammad Razzaghinia": [
+          "amirmohammad razzaghinia",
+          "razzaghinia"
+        ]
+      }
+    },
+    "Iraq": {
+      "aliases": [
+        "iraq",
+        "iraqi",
+        "irq"
+      ],
+      "manager": {
+        "name": "Graham Arnold",
+        "aliases": [
+          "arnold",
+          "graham arnold"
+        ]
+      },
+      "players": {
+        "Fahad Talib": [
+          "fahad talib",
+          "talib"
+        ],
+        "Rebin Sulaka": [
+          "rebin sulaka",
+          "sulaka"
+        ],
+        "Hussein Ali": [
+          "hussein ali"
+        ],
+        "Zaid Tahseen": [
+          "tahseen",
+          "zaid tahseen"
+        ],
+        "Akam Hashim": [
+          "akam hashim",
+          "hashim"
+        ],
+        "Manaf Younis": [
+          "manaf younis",
+          "younis"
+        ],
+        "Youssef Amyn": [
+          "amyn",
+          "youssef amyn"
+        ],
+        "Ibrahim Bayesh": [
+          "bayesh",
+          "ibrahim bayesh"
+        ],
+        "Ali Al-Hamadi": [
+          "al-hamadi",
+          "ali al-hamadi"
+        ],
+        "Mohanad Ali": [
+          "mohanad ali"
+        ],
+        "Ahmed Qasem": [
+          "ahmed qasem",
+          "qasem"
+        ],
+        "Jalal Hassan": [
+          "hassan",
+          "jalal hassan"
+        ],
+        "Ali Yousif": [
+          "ali yousif",
+          "yousif"
+        ],
+        "Zidane Iqbal": [
+          "iqbal",
+          "zidane iqbal"
+        ],
+        "Ahmed Maknzi": [
+          "ahmed maknzi",
+          "maknzi"
+        ],
+        "Amir Al-Ammari": [
+          "al-ammari",
+          "amir al-ammari"
+        ],
+        "Ali Jasim": [
+          "ali jasim",
+          "jasim"
+        ],
+        "Aymen Hussein": [
+          "aymen hussein",
+          "hussein"
+        ],
+        "Kevin Yakob": [
+          "kevin yakob",
+          "yakob"
+        ],
+        "Aimar Sher": [
+          "aimar sher",
+          "sher"
+        ],
+        "Marko Farji": [
+          "farji",
+          "marko farji"
+        ],
+        "Ahmed Basil": [
+          "ahmed basil",
+          "basil"
+        ],
+        "Merchas Doski": [
+          "doski",
+          "merchas doski"
+        ],
+        "Zaid Ismail": [
+          "ismail",
+          "zaid ismail"
+        ],
+        "Mustafa Saadoon": [
+          "mustafa saadoon",
+          "saadoon"
+        ],
+        "Frans Putros": [
+          "frans putros",
+          "putros"
+        ]
+      }
+    },
+    "Ivory Coast": {
+      "aliases": [
+        "civ",
+        "cote d'ivoire",
+        "côte d'ivoire",
+        "ivorian",
+        "ivory coast"
+      ],
+      "manager": {
+        "name": "Emerse Faé",
+        "aliases": [
+          "emerse fae",
+          "emerse faé"
+        ]
+      },
+      "players": {
+        "Yahia Fofana": [
+          "fofana",
+          "yahia fofana"
+        ],
+        "Ousmane Diomande": [
+          "diomande",
+          "ousmane diomande"
+        ],
+        "Ghislain Konan": [
+          "ghislain konan",
+          "konan"
+        ],
+        "Jean Michaël Seri": [
+          "jean michael seri",
+          "jean michaël seri",
+          "seri"
+        ],
+        "Wilfried Singo": [
+          "singo",
+          "wilfried singo"
+        ],
+        "Seko Fofana": [
+          "fofana",
+          "seko fofana"
+        ],
+        "Odilon Kossounou": [
+          "kossounou",
+          "odilon kossounou"
+        ],
+        "Franck Kessié": [
+          "franck kessie",
+          "franck kessié",
+          "kessie"
+        ],
+        "Ange-Yoan Bonny": [
+          "ange-yoan bonny",
+          "bonny"
+        ],
+        "Simon Adingra": [
+          "adingra",
+          "simon adingra"
+        ],
+        "Yan Diomande": [
+          "diomande",
+          "yan diomande"
+        ],
+        "Elye Wahi": [
+          "elye wahi",
+          "wahi"
+        ],
+        "Christopher Opéri": [
+          "christopher operi",
+          "christopher opéri",
+          "operi"
+        ],
+        "Oumar Diakité": [
+          "diakite",
+          "oumar diakite",
+          "oumar diakité"
+        ],
+        "Amad Diallo": [
+          "amad diallo",
+          "diallo"
+        ],
+        "Mohamed Koné": [
+          "kone",
+          "mohamed kone",
+          "mohamed koné"
+        ],
+        "Guéla Doué": [
+          "doue",
+          "guela doue",
+          "guéla doué"
+        ],
+        "Ibrahim Sangaré": [
+          "ibrahim sangare",
+          "ibrahim sangaré",
+          "sangare"
+        ],
+        "Nicolas Pépé": [
+          "nicolas pepe",
+          "nicolas pépé",
+          "pepe"
+        ],
+        "Emmanuel Agbadou": [
+          "agbadou",
+          "emmanuel agbadou"
+        ],
+        "Evan Ndicka": [
+          "evan ndicka",
+          "ndicka"
+        ],
+        "Evann Guessand": [
+          "evann guessand",
+          "guessand"
+        ],
+        "Alban Lafont": [
+          "alban lafont",
+          "lafont"
+        ],
+        "Bazoumana Touré": [
+          "bazoumana toure",
+          "bazoumana touré",
+          "toure"
+        ],
+        "Parfait Guiagon": [
+          "guiagon",
+          "parfait guiagon"
+        ],
+        "Christ Inao Oulaï": [
+          "christ inao oulai",
+          "christ inao oulaï",
+          "oulai"
+        ]
+      }
+    },
+    "Japan": {
+      "aliases": [
+        "japan",
+        "japanese",
+        "jpn"
+      ],
+      "manager": {
+        "name": "Hajime Moriyasu",
+        "aliases": [
+          "hajime moriyasu",
+          "moriyasu"
+        ]
+      },
+      "players": {
+        "Zion Suzuki": [
+          "suzuki",
+          "zion suzuki"
+        ],
+        "Yukinari Sugawara": [
+          "sugawara",
+          "yukinari sugawara"
+        ],
+        "Shōgo Taniguchi": [
+          "shogo taniguchi",
+          "shōgo taniguchi",
+          "taniguchi"
+        ],
+        "Kō Itakura": [
+          "itakura",
+          "ko itakura",
+          "kō itakura"
+        ],
+        "Yūto Nagatomo": [
+          "nagatomo",
+          "yuto nagatomo",
+          "yūto nagatomo"
+        ],
+        "Shūto Machino": [
+          "machino",
+          "shuto machino",
+          "shūto machino"
+        ],
+        "Ao Tanaka": [
+          "ao tanaka",
+          "tanaka"
+        ],
+        "Takefusa Kubo": [
+          "kubo",
+          "takefusa kubo"
+        ],
+        "Keisuke Gotō": [
+          "goto",
+          "keisuke goto",
+          "keisuke gotō"
+        ],
+        "Ritsu Dōan": [
+          "doan",
+          "ritsu doan",
+          "ritsu dōan"
+        ],
+        "Daizen Maeda": [
+          "daizen maeda",
+          "maeda"
+        ],
+        "Keisuke Ōsako": [
+          "keisuke osako",
+          "keisuke ōsako",
+          "osako"
+        ],
+        "Keito Nakamura": [
+          "keito nakamura",
+          "nakamura"
+        ],
+        "Junya Itō": [
+          "junya ito",
+          "junya itō"
+        ],
+        "Daichi Kamada": [
+          "daichi kamada",
+          "kamada"
+        ],
+        "Tsuyoshi Watanabe": [
+          "tsuyoshi watanabe",
+          "watanabe"
+        ],
+        "Yuito Suzuki": [
+          "suzuki",
+          "yuito suzuki"
+        ],
+        "Ayase Ueda": [
+          "ayase ueda",
+          "ueda"
+        ],
+        "Kōki Ogawa": [
+          "koki ogawa",
+          "kōki ogawa",
+          "ogawa"
+        ],
+        "Ayumu Seko": [
+          "ayumu seko",
+          "seko"
+        ],
+        "Hiroki Itō": [
+          "hiroki ito",
+          "hiroki itō"
+        ],
+        "Takehiro Tomiyasu": [
+          "takehiro tomiyasu",
+          "tomiyasu"
+        ],
+        "Tomoki Hayakawa": [
+          "hayakawa",
+          "tomoki hayakawa"
+        ],
+        "Kaishū Sano": [
+          "kaishu sano",
+          "kaishū sano",
+          "sano"
+        ],
+        "Junnosuke Suzuki": [
+          "junnosuke suzuki",
+          "suzuki"
+        ],
+        "Kento Shiogai": [
+          "kento shiogai",
+          "shiogai"
+        ]
+      }
+    },
+    "Jordan": {
+      "aliases": [
+        "jor",
+        "jordan",
+        "jordanian"
+      ],
+      "manager": {
+        "name": "Jamal Sellami",
+        "aliases": [
+          "jamal sellami",
+          "sellami"
+        ]
+      },
+      "players": {
+        "Yazeed Abulaila": [
+          "abulaila",
+          "yazeed abulaila"
+        ],
+        "Mohammad Abu Hashish": [
+          "hashish",
+          "mohammad abu hashish"
+        ],
+        "Abdallah Nasib": [
+          "abdallah nasib",
+          "nasib"
+        ],
+        "Husam Abu Dahab": [
+          "dahab",
+          "husam abu dahab"
+        ],
+        "Yazan Al-Arab": [
+          "al-arab",
+          "yazan al-arab"
+        ],
+        "Amer Jamous": [
+          "amer jamous",
+          "jamous"
+        ],
+        "Mohammad Abu Zrayq": [
+          "mohammad abu zrayq",
+          "zrayq"
+        ],
+        "Noor Al-Rawabdeh": [
+          "al-rawabdeh",
+          "noor al-rawabdeh"
+        ],
+        "Ali Olwan": [
+          "ali olwan",
+          "olwan"
+        ],
+        "Musa Al-Taamari": [
+          "al-taamari",
+          "musa al-taamari"
+        ],
+        "Odeh Al-Fakhouri": [
+          "al-fakhouri",
+          "odeh al-fakhouri"
+        ],
+        "Nour Bani Attiah": [
+          "attiah",
+          "nour bani attiah"
+        ],
+        "Mahmoud Al-Mardi": [
+          "al-mardi",
+          "mahmoud al-mardi"
+        ],
+        "Rajaei Ayed": [
+          "ayed",
+          "rajaei ayed"
+        ],
+        "Ibrahim Sadeh": [
+          "ibrahim sadeh",
+          "sadeh"
+        ],
+        "Mo Abualnadi": [
+          "abualnadi",
+          "mo abualnadi"
+        ],
+        "Salim Obaid": [
+          "obaid",
+          "salim obaid"
+        ],
+        "Mohammad Taha": [
+          "mohammad taha",
+          "taha"
+        ],
+        "Saed Al-Rosan": [
+          "al-rosan",
+          "saed al-rosan"
+        ],
+        "Mohannad Abu Taha": [
+          "mohannad abu taha",
+          "taha"
+        ],
+        "Nizar Al-Rashdan": [
+          "al-rashdan",
+          "nizar al-rashdan"
+        ],
+        "Abdallah Al-Fakhouri": [
+          "abdallah al-fakhouri",
+          "al-fakhouri"
+        ],
+        "Ihsan Haddad": [
+          "haddad",
+          "ihsan haddad"
+        ],
+        "Ali Azaizeh": [
+          "ali azaizeh",
+          "azaizeh"
+        ],
+        "Mohammad Al-Dawoud": [
+          "al-dawoud",
+          "mohammad al-dawoud"
+        ],
+        "Anas Badawi": [
+          "anas badawi",
+          "badawi"
+        ]
+      }
+    },
+    "Mexico": {
+      "aliases": [
+        "el tri",
+        "mex",
+        "mexican",
+        "mexico"
+      ],
+      "manager": {
+        "name": "Javier Aguirre",
+        "aliases": [
+          "aguirre",
+          "javier aguirre"
+        ]
+      },
+      "players": {
+        "Raúl Rangel": [
+          "rangel",
+          "raul rangel",
+          "raúl rangel"
+        ],
+        "Jorge Sánchez": [
+          "jorge sanchez",
+          "jorge sánchez",
+          "sanchez"
+        ],
+        "César Montes": [
+          "cesar montes",
+          "césar montes",
+          "montes"
+        ],
+        "Edson Álvarez": [
+          "alvarez",
+          "edson alvarez",
+          "edson álvarez"
+        ],
+        "Johan Vásquez": [
+          "johan vasquez",
+          "johan vásquez",
+          "vasquez"
+        ],
+        "Érik Lira": [
+          "erik lira",
+          "lira",
+          "érik lira"
+        ],
+        "Luis Romo": [
+          "luis romo",
+          "romo"
+        ],
+        "Álvaro Fidalgo": [
+          "alvaro fidalgo",
+          "fidalgo",
+          "álvaro fidalgo"
+        ],
+        "Raúl Jiménez": [
+          "jimenez",
+          "raul jimenez",
+          "raúl jiménez"
+        ],
+        "Alexis Vega": [
+          "alexis vega",
+          "vega"
+        ],
+        "Santiago Giménez": [
+          "gimenez",
+          "santiago gimenez",
+          "santiago giménez"
+        ],
+        "Carlos Acevedo": [
+          "acevedo",
+          "carlos acevedo"
+        ],
+        "Guillermo Ochoa": [
+          "guillermo ochoa",
+          "ochoa"
+        ],
+        "Armando González": [
+          "armando gonzalez",
+          "armando gonzález",
+          "gonzalez"
+        ],
+        "Israel Reyes": [
+          "israel reyes",
+          "reyes"
+        ],
+        "Julián Quiñones": [
+          "julian quinones",
+          "julián quiñones",
+          "quinones"
+        ],
+        "Orbelín Pineda": [
+          "orbelin pineda",
+          "orbelín pineda",
+          "pineda"
+        ],
+        "Obed Vargas": [
+          "obed vargas",
+          "vargas"
+        ],
+        "Gilberto Mora": [
+          "gilberto mora",
+          "mora"
+        ],
+        "Mateo Chávez": [
+          "chavez",
+          "mateo chavez",
+          "mateo chávez"
+        ],
+        "César Huerta": [
+          "cesar huerta",
+          "césar huerta",
+          "huerta"
+        ],
+        "Guillermo Martínez": [
+          "guillermo martinez",
+          "guillermo martínez",
+          "martinez"
+        ],
+        "Jesús Gallardo": [
+          "gallardo",
+          "jesus gallardo",
+          "jesús gallardo"
+        ],
+        "Luis Chávez": [
+          "chavez",
+          "luis chavez",
+          "luis chávez"
+        ],
+        "Roberto Alvarado": [
+          "alvarado",
+          "roberto alvarado"
+        ],
+        "Brian Gutiérrez": [
+          "brian gutierrez",
+          "brian gutiérrez",
+          "gutierrez"
+        ]
+      }
+    },
+    "Morocco": {
+      "aliases": [
+        "mar",
+        "moroccan",
+        "morocco"
+      ],
+      "manager": {
+        "name": "Mohamed Ouahbi",
+        "aliases": [
+          "mohamed ouahbi",
+          "ouahbi"
+        ]
+      },
+      "players": {
+        "Yassine Bounou": [
+          "bounou",
+          "yassine bounou"
+        ],
+        "Achraf Hakimi": [
+          "achraf hakimi",
+          "hakimi"
+        ],
+        "Noussair Mazraoui": [
+          "mazraoui",
+          "noussair mazraoui"
+        ],
+        "Sofyan Amrabat": [
+          "amrabat",
+          "sofyan amrabat"
+        ],
+        "Marwane Saâdane": [
+          "marwane saadane",
+          "marwane saâdane",
+          "saadane"
+        ],
+        "Ayyoub Bouaddi": [
+          "ayyoub bouaddi",
+          "bouaddi"
+        ],
+        "Chemsdine Talbi": [
+          "chemsdine talbi",
+          "talbi"
+        ],
+        "Azzedine Ounahi": [
+          "azzedine ounahi",
+          "ounahi"
+        ],
+        "Soufiane Rahimi": [
+          "rahimi",
+          "soufiane rahimi"
+        ],
+        "Brahim Díaz": [
+          "brahim diaz",
+          "brahim díaz",
+          "diaz"
+        ],
+        "Ismael Saibari": [
+          "ismael saibari",
+          "saibari"
+        ],
+        "Munir Mohamedi": [
+          "mohamedi",
+          "munir mohamedi"
+        ],
+        "Zakaria El Ouahdi": [
+          "ouahdi",
+          "zakaria el ouahdi"
+        ],
+        "Issa Diop": [
+          "diop",
+          "issa diop"
+        ],
+        "Samir El Mourabet": [
+          "mourabet",
+          "samir el mourabet"
+        ],
+        "Gessime Yassine": [
+          "gessime yassine",
+          "yassine"
+        ],
+        "Amine Sbaï": [
+          "amine sbai",
+          "amine sbaï",
+          "sbai"
+        ],
+        "Chadi Riad": [
+          "chadi riad",
+          "riad"
+        ],
+        "Youssef Belammari": [
+          "belammari",
+          "youssef belammari"
+        ],
+        "Ayoub El Kaabi": [
+          "ayoub el kaabi",
+          "kaabi"
+        ],
+        "Ayoube Amaimouni": [
+          "amaimouni",
+          "ayoube amaimouni"
+        ],
+        "Ahmed Reda Tagnaouti": [
+          "ahmed reda tagnaouti",
+          "tagnaouti"
+        ],
+        "Bilal El Khannouss": [
+          "bilal el khannouss",
+          "khannouss"
+        ],
+        "Neil El Aynaoui": [
+          "aynaoui",
+          "neil el aynaoui"
+        ],
+        "Redouane Halhal": [
+          "halhal",
+          "redouane halhal"
+        ],
+        "Anass Salah-Eddine": [
+          "anass salah-eddine",
+          "salah-eddine"
+        ]
+      }
+    },
+    "Netherlands": {
+      "aliases": [
+        "dutch",
+        "holland",
+        "ned",
+        "netherlands",
+        "oranje"
+      ],
+      "manager": {
+        "name": "Ronald Koeman",
+        "aliases": [
+          "koeman",
+          "ronald koeman"
+        ]
+      },
+      "players": {
+        "Bart Verbruggen": [
+          "bart verbruggen",
+          "verbruggen"
+        ],
+        "Lutsharel Geertruida": [
+          "geertruida",
+          "lutsharel geertruida"
+        ],
+        "Marten de Roon": [
+          "marten de roon",
+          "roon"
+        ],
+        "Virgil van Dijk": [
+          "dijk",
+          "virgil van dijk"
+        ],
+        "Nathan Aké": [
+          "nathan ake",
+          "nathan aké"
+        ],
+        "Jan Paul van Hecke": [
+          "hecke",
+          "jan paul van hecke"
+        ],
+        "Justin Kluivert": [
+          "justin kluivert",
+          "kluivert"
+        ],
+        "Ryan Gravenberch": [
+          "gravenberch",
+          "ryan gravenberch"
+        ],
+        "Wout Weghorst": [
+          "weghorst",
+          "wout weghorst"
+        ],
+        "Memphis Depay": [
+          "depay",
+          "memphis depay"
+        ],
+        "Cody Gakpo": [
+          "cody gakpo",
+          "gakpo"
+        ],
+        "Mats Wieffer": [
+          "mats wieffer",
+          "wieffer"
+        ],
+        "Robin Roefs": [
+          "robin roefs",
+          "roefs"
+        ],
+        "Tijjani Reijnders": [
+          "reijnders",
+          "tijjani reijnders"
+        ],
+        "Micky van de Ven": [
+          "micky van de ven"
+        ],
+        "Guus Til": [
+          "guus til"
+        ],
+        "Noa Lang": [
+          "lang",
+          "noa lang"
+        ],
+        "Donyell Malen": [
+          "donyell malen",
+          "malen"
+        ],
+        "Brian Brobbey": [
+          "brian brobbey",
+          "brobbey"
+        ],
+        "Teun Koopmeiners": [
+          "koopmeiners",
+          "teun koopmeiners"
+        ],
+        "Frenkie de Jong": [
+          "frenkie de jong",
+          "jong"
+        ],
+        "Denzel Dumfries": [
+          "denzel dumfries",
+          "dumfries"
+        ],
+        "Mark Flekken": [
+          "flekken",
+          "mark flekken"
+        ],
+        "Crysencio Summerville": [
+          "crysencio summerville",
+          "summerville"
+        ],
+        "Jorrel Hato": [
+          "hato",
+          "jorrel hato"
+        ],
+        "Quinten Timber": [
+          "quinten timber",
+          "timber"
+        ]
+      }
+    },
+    "New Zealand": {
+      "aliases": [
+        "kiwis",
+        "new zealand",
+        "nzl"
+      ],
+      "manager": {
+        "name": "Darren Bazeley",
+        "aliases": [
+          "bazeley",
+          "darren bazeley"
+        ]
+      },
+      "players": {
+        "Max Crocombe": [
+          "crocombe",
+          "max crocombe"
+        ],
+        "Tim Payne": [
+          "payne",
+          "tim payne"
+        ],
+        "Francis de Vries": [
+          "francis de vries",
+          "vries"
+        ],
+        "Tyler Bindon": [
+          "bindon",
+          "tyler bindon"
+        ],
+        "Michael Boxall": [
+          "boxall",
+          "michael boxall"
+        ],
+        "Joe Bell": [
+          "bell",
+          "joe bell"
+        ],
+        "Logan Rogerson": [
+          "logan rogerson",
+          "rogerson"
+        ],
+        "Marko Stamenić": [
+          "marko stamenic",
+          "marko stamenić",
+          "stamenic"
+        ],
+        "Chris Wood": [
+          "chris wood",
+          "wood"
+        ],
+        "Sarpreet Singh": [
+          "sarpreet singh",
+          "singh"
+        ],
+        "Elijah Just": [
+          "elijah just"
+        ],
+        "Alex Paulsen": [
+          "alex paulsen",
+          "paulsen"
+        ],
+        "Liberato Cacace": [
+          "cacace",
+          "liberato cacace"
+        ],
+        "Alex Rufer": [
+          "alex rufer",
+          "rufer"
+        ],
+        "Nando Pijnaker": [
+          "nando pijnaker",
+          "pijnaker"
+        ],
+        "Finn Surman": [
+          "finn surman",
+          "surman"
+        ],
+        "Kosta Barbarouses": [
+          "barbarouses",
+          "kosta barbarouses"
+        ],
+        "Ben Waine": [
+          "ben waine",
+          "waine"
+        ],
+        "Ben Old": [
+          "ben old"
+        ],
+        "Callum McCowatt": [
+          "callum mccowatt",
+          "mccowatt"
+        ],
+        "Jesse Randall": [
+          "jesse randall",
+          "randall"
+        ],
+        "Michael Woud": [
+          "michael woud",
+          "woud"
+        ],
+        "Ryan Thomas": [
+          "ryan thomas",
+          "thomas"
+        ],
+        "Callan Elliot": [
+          "callan elliot",
+          "elliot"
+        ],
+        "Lachlan Bayliss": [
+          "bayliss",
+          "lachlan bayliss"
+        ],
+        "Tommy Smith": [
+          "smith",
+          "tommy smith"
+        ]
+      }
+    },
+    "Norway": {
+      "aliases": [
+        "nor",
+        "norway",
+        "norwegian"
+      ],
+      "manager": {
+        "name": "Ståle Solbakken",
+        "aliases": [
+          "solbakken",
+          "stale solbakken",
+          "ståle solbakken"
+        ]
+      },
+      "players": {
+        "Ørjan Nyland": [
+          "nyland",
+          "rjan nyland",
+          "ørjan nyland"
+        ],
+        "Morten Thorsby": [
+          "morten thorsby",
+          "thorsby"
+        ],
+        "Kristoffer Ajer": [
+          "ajer",
+          "kristoffer ajer"
+        ],
+        "Leo Østigård": [
+          "leo stigard",
+          "leo østigård",
+          "stigard"
+        ],
+        "David Møller Wolfe": [
+          "david mller wolfe",
+          "david møller wolfe",
+          "wolfe"
+        ],
+        "Patrick Berg": [
+          "berg",
+          "patrick berg"
+        ],
+        "Alexander Sørloth": [
+          "alexander srloth",
+          "alexander sørloth",
+          "srloth"
+        ],
+        "Sander Berge": [
+          "berge",
+          "sander berge"
+        ],
+        "Erling Haaland": [
+          "erling haaland",
+          "haaland"
+        ],
+        "Martin Ødegaard": [
+          "degaard",
+          "martin degaard",
+          "martin ødegaard"
+        ],
+        "Jørgen Strand Larsen": [
+          "jrgen strand larsen",
+          "jørgen strand larsen",
+          "larsen"
+        ],
+        "Sander Tangvik": [
+          "sander tangvik",
+          "tangvik"
+        ],
+        "Egil Selvik": [
+          "egil selvik",
+          "selvik"
+        ],
+        "Fredrik Aursnes": [
+          "aursnes",
+          "fredrik aursnes"
+        ],
+        "Fredrik André Bjørkan": [
+          "bjrkan",
+          "fredrik andre bjrkan",
+          "fredrik andré bjørkan"
+        ],
+        "Marcus Holmgren Pedersen": [
+          "marcus holmgren pedersen",
+          "pedersen"
+        ],
+        "Torbjørn Heggem": [
+          "heggem",
+          "torbjrn heggem",
+          "torbjørn heggem"
+        ],
+        "Kristian Thorstvedt": [
+          "kristian thorstvedt",
+          "thorstvedt"
+        ],
+        "Thelo Aasgaard": [
+          "aasgaard",
+          "thelo aasgaard"
+        ],
+        "Antonio Nusa": [
+          "antonio nusa",
+          "nusa"
+        ],
+        "Andreas Schjelderup": [
+          "andreas schjelderup",
+          "schjelderup"
+        ],
+        "Oscar Bobb": [
+          "bobb",
+          "oscar bobb"
+        ],
+        "Jens Petter Hauge": [
+          "hauge",
+          "jens petter hauge"
+        ],
+        "Sondre Langås": [
+          "langas",
+          "sondre langas",
+          "sondre langås"
+        ],
+        "Henrik Falchener": [
+          "falchener",
+          "henrik falchener"
+        ],
+        "Julian Ryerson": [
+          "julian ryerson",
+          "ryerson"
+        ]
+      }
+    },
+    "Panama": {
+      "aliases": [
+        "pan",
+        "panama",
+        "panamanian"
+      ],
+      "manager": {
+        "name": "Thomas Christiansen",
+        "aliases": [
+          "christiansen",
+          "thomas christiansen"
+        ]
+      },
+      "players": {
+        "Luis Mejía": [
+          "luis mejia",
+          "luis mejía",
+          "mejia"
+        ],
+        "César Blackman": [
+          "blackman",
+          "cesar blackman",
+          "césar blackman"
+        ],
+        "José Córdoba": [
+          "cordoba",
+          "jose cordoba",
+          "josé córdoba"
+        ],
+        "Fidel Escobar": [
+          "escobar",
+          "fidel escobar"
+        ],
+        "Edgardo Fariña": [
+          "edgardo farina",
+          "edgardo fariña",
+          "farina"
+        ],
+        "Cristian Martínez": [
+          "cristian martinez",
+          "cristian martínez",
+          "martinez"
+        ],
+        "José Luis Rodríguez": [
+          "jose luis rodriguez",
+          "josé luis rodríguez",
+          "rodriguez"
+        ],
+        "Adalberto Carrasquilla": [
+          "adalberto carrasquilla",
+          "carrasquilla"
+        ],
+        "Tomás Rodríguez": [
+          "rodriguez",
+          "tomas rodriguez",
+          "tomás rodríguez"
+        ],
+        "Ismael Díaz": [
+          "diaz",
+          "ismael diaz",
+          "ismael díaz"
+        ],
+        "Yoel Bárcenas": [
+          "barcenas",
+          "yoel barcenas",
+          "yoel bárcenas"
+        ],
+        "César Samudio": [
+          "cesar samudio",
+          "césar samudio",
+          "samudio"
+        ],
+        "Jiovany Ramos": [
+          "jiovany ramos",
+          "ramos"
+        ],
+        "Carlos Harvey": [
+          "carlos harvey",
+          "harvey"
+        ],
+        "Eric Davis": [
+          "davis",
+          "eric davis"
+        ],
+        "Andrés Andrade": [
+          "andrade",
+          "andres andrade",
+          "andrés andrade"
+        ],
+        "José Fajardo": [
+          "fajardo",
+          "jose fajardo",
+          "josé fajardo"
+        ],
+        "Cecilio Waterman": [
+          "cecilio waterman",
+          "waterman"
+        ],
+        "Alberto Quintero": [
+          "alberto quintero",
+          "quintero"
+        ],
+        "Aníbal Godoy": [
+          "anibal godoy",
+          "aníbal godoy",
+          "godoy"
+        ],
+        "César Yanis": [
+          "cesar yanis",
+          "césar yanis",
+          "yanis"
+        ],
+        "Orlando Mosquera": [
+          "mosquera",
+          "orlando mosquera"
+        ],
+        "Michael Amir Murillo": [
+          "michael amir murillo",
+          "murillo"
+        ],
+        "Azarias Londoño": [
+          "azarias londono",
+          "azarias londoño",
+          "londono"
+        ],
+        "Roderick Miller": [
+          "miller",
+          "roderick miller"
+        ],
+        "Jorge Gutiérrez": [
+          "gutierrez",
+          "jorge gutierrez",
+          "jorge gutiérrez"
+        ]
+      }
+    },
+    "Paraguay": {
+      "aliases": [
+        "par",
+        "paraguay",
+        "paraguayan"
+      ],
+      "manager": {
+        "name": "Gustavo Alfaro",
+        "aliases": [
+          "alfaro",
+          "gustavo alfaro"
+        ]
+      },
+      "players": {
+        "Gatito Fernández": [
+          "fernandez",
+          "gatito fernandez",
+          "gatito fernández"
+        ],
+        "Gustavo Velázquez": [
+          "gustavo velazquez",
+          "gustavo velázquez",
+          "velazquez"
+        ],
+        "Omar Alderete": [
+          "alderete",
+          "omar alderete"
+        ],
+        "Juan José Cáceres": [
+          "caceres",
+          "juan jose caceres",
+          "juan josé cáceres"
+        ],
+        "Fabián Balbuena": [
+          "balbuena",
+          "fabian balbuena",
+          "fabián balbuena"
+        ],
+        "Júnior Alonso": [
+          "alonso",
+          "junior alonso",
+          "júnior alonso"
+        ],
+        "Ramón Sosa": [
+          "ramon sosa",
+          "ramón sosa",
+          "sosa"
+        ],
+        "Diego Gómez": [
+          "diego gomez",
+          "diego gómez",
+          "gomez"
+        ],
+        "Antonio Sanabria": [
+          "antonio sanabria",
+          "sanabria"
+        ],
+        "Miguel Almirón": [
+          "almiron",
+          "miguel almiron",
+          "miguel almirón"
+        ],
+        "Maurício": [
+          "mauricio",
+          "maurício"
+        ],
+        "Orlando Gill": [
+          "gill",
+          "orlando gill"
+        ],
+        "José Canale": [
+          "canale",
+          "jose canale",
+          "josé canale"
+        ],
+        "Andrés Cubas": [
+          "andres cubas",
+          "andrés cubas",
+          "cubas"
+        ],
+        "Gustavo Gómez": [
+          "gomez",
+          "gustavo gomez",
+          "gustavo gómez"
+        ],
+        "Damián Bobadilla": [
+          "bobadilla",
+          "damian bobadilla",
+          "damián bobadilla"
+        ],
+        "Kaku": [
+          "kaku"
+        ],
+        "Álex Arce": [
+          "alex arce",
+          "arce",
+          "álex arce"
+        ],
+        "Julio Enciso": [
+          "enciso",
+          "julio enciso"
+        ],
+        "Braian Ojeda": [
+          "braian ojeda",
+          "ojeda"
+        ],
+        "Gabriel Ávalos": [
+          "avalos",
+          "gabriel avalos",
+          "gabriel ávalos"
+        ],
+        "Gastón Olveira": [
+          "gaston olveira",
+          "gastón olveira",
+          "olveira"
+        ],
+        "Matías Galarza": [
+          "galarza",
+          "matias galarza",
+          "matías galarza"
+        ],
+        "Gustavo Caballero": [
+          "caballero",
+          "gustavo caballero"
+        ],
+        "Isidro Pitta": [
+          "isidro pitta",
+          "pitta"
+        ],
+        "Alexandro Maidana": [
+          "alexandro maidana",
+          "maidana"
+        ]
+      }
+    },
+    "Portugal": {
+      "aliases": [
+        "por",
+        "portugal",
+        "portuguese"
+      ],
+      "manager": {
+        "name": "Roberto Martínez",
+        "aliases": [
+          "martinez",
+          "martínez",
+          "roberto martinez",
+          "roberto martínez"
+        ]
+      },
+      "players": {
+        "Diogo Costa": [
+          "costa",
+          "diogo costa"
+        ],
+        "Nélson Semedo": [
+          "nelson semedo",
+          "nélson semedo",
+          "semedo"
+        ],
+        "Rúben Dias": [
+          "dias",
+          "ruben dias",
+          "rúben dias"
+        ],
+        "Tomás Araújo": [
+          "araujo",
+          "tomas araujo",
+          "tomás araújo"
+        ],
+        "Diogo Dalot": [
+          "dalot",
+          "diogo dalot"
+        ],
+        "Matheus Nunes": [
+          "matheus nunes",
+          "nunes"
+        ],
+        "Cristiano Ronaldo": [
+          "cr7",
+          "cristiano",
+          "cristiano ronaldo",
+          "ronaldo",
+          "siuuu"
+        ],
+        "Bruno Fernandes": [
+          "bruno fernandes",
+          "fernandes"
+        ],
+        "Gonçalo Ramos": [
+          "goncalo ramos",
+          "gonçalo ramos",
+          "ramos"
+        ],
+        "Bernardo Silva": [
+          "bernardo silva",
+          "silva"
+        ],
+        "João Félix": [
+          "felix",
+          "joao felix",
+          "joão félix"
+        ],
+        "José Sá": [
+          "jose sa",
+          "josé sá"
+        ],
+        "Renato Veiga": [
+          "renato veiga",
+          "veiga"
+        ],
+        "Gonçalo Inácio": [
+          "goncalo inacio",
+          "gonçalo inácio",
+          "inacio"
+        ],
+        "João Neves": [
+          "joao neves",
+          "joão neves",
+          "neves"
+        ],
+        "Francisco Trincão": [
+          "francisco trincao",
+          "francisco trincão",
+          "trincao"
+        ],
+        "Rafael Leão": [
+          "leao",
+          "leão",
+          "rafael leao",
+          "rafael leão"
+        ],
+        "Pedro Neto": [
+          "neto",
+          "pedro neto"
+        ],
+        "Gonçalo Guedes": [
+          "goncalo guedes",
+          "gonçalo guedes",
+          "guedes"
+        ],
+        "João Cancelo": [
+          "cancelo",
+          "joao cancelo",
+          "joão cancelo"
+        ],
+        "Rúben Neves": [
+          "neves",
+          "ruben neves",
+          "rúben neves"
+        ],
+        "Rui Silva": [
+          "rui silva",
+          "silva"
+        ],
+        "Vitinha": [
+          "vitinha"
+        ],
+        "Samú Costa": [
+          "costa",
+          "samu costa",
+          "samú costa"
+        ],
+        "Nuno Mendes": [
+          "mendes",
+          "nuno mendes"
+        ],
+        "Francisco Conceição": [
+          "conceicao",
+          "francisco conceicao",
+          "francisco conceição"
+        ]
+      }
+    },
+    "Qatar": {
+      "aliases": [
+        "qat",
+        "qatar",
+        "qatari"
+      ],
+      "manager": {
+        "name": "Julen Lopetegui",
+        "aliases": [
+          "julen lopetegui",
+          "lopetegui"
+        ]
+      },
+      "players": {
+        "Mahmud Abunada": [
+          "abunada",
+          "mahmud abunada"
+        ],
+        "Pedro Miguel": [
+          "miguel",
+          "pedro miguel"
+        ],
+        "Lucas Mendes": [
+          "lucas mendes",
+          "mendes"
+        ],
+        "Issa Laye": [
+          "issa laye",
+          "laye"
+        ],
+        "Jassem Gaber": [
+          "gaber",
+          "jassem gaber"
+        ],
+        "Abdulaziz Hatem": [
+          "abdulaziz hatem",
+          "hatem"
+        ],
+        "Ahmed Alaaeldin": [
+          "ahmed alaaeldin",
+          "alaaeldin"
+        ],
+        "Edmilson Junior": [
+          "edmilson junior",
+          "junior"
+        ],
+        "Mohammed Muntari": [
+          "mohammed muntari",
+          "muntari"
+        ],
+        "Hassan Al-Haydos": [
+          "al-haydos",
+          "hassan al-haydos"
+        ],
+        "Akram Afif": [
+          "afif",
+          "akram afif"
+        ],
+        "Karim Boudiaf": [
+          "boudiaf",
+          "karim boudiaf"
+        ],
+        "Ayoub Al-Oui": [
+          "al-oui",
+          "ayoub al-oui"
+        ],
+        "Homam Ahmed": [
+          "ahmed",
+          "homam ahmed"
+        ],
+        "Yusuf Abdurisag": [
+          "abdurisag",
+          "yusuf abdurisag"
+        ],
+        "Boualem Khoukhi": [
+          "boualem khoukhi",
+          "khoukhi"
+        ],
+        "Ahmed Al-Ganehi": [
+          "ahmed al-ganehi",
+          "al-ganehi"
+        ],
+        "Sultan Al-Brake": [
+          "al-brake",
+          "sultan al-brake"
+        ],
+        "Almoez Ali": [
+          "almoez ali"
+        ],
+        "Ahmed Fathy": [
+          "ahmed fathy",
+          "fathy"
+        ],
+        "Salah Zakaria": [
+          "salah zakaria",
+          "zakaria"
+        ],
+        "Meshaal Barsham": [
+          "barsham",
+          "meshaal barsham"
+        ],
+        "Assim Madibo": [
+          "assim madibo",
+          "madibo"
+        ],
+        "Tahsin Jamshid": [
+          "jamshid",
+          "tahsin jamshid"
+        ],
+        "Al-Hashmi Al-Hussain": [
+          "al-hashmi al-hussain",
+          "al-hussain"
+        ],
+        "Mohamed Manai": [
+          "manai",
+          "mohamed manai"
+        ]
+      }
+    },
+    "Saudi Arabia": {
+      "aliases": [
+        "ksa",
+        "sau",
+        "saudi",
+        "saudi arabia",
+        "saudis"
+      ],
+      "manager": {
+        "name": "Georgios Donis",
+        "aliases": [
+          "donis",
+          "georgios donis"
+        ]
+      },
+      "players": {
+        "Nawaf Al-Aqidi": [
+          "al-aqidi",
+          "nawaf al-aqidi"
+        ],
+        "Ali Majrashi": [
+          "ali majrashi",
+          "majrashi"
+        ],
+        "Ali Lajami": [
+          "ali lajami",
+          "lajami"
+        ],
+        "Abdulelah Al-Amri": [
+          "abdulelah al-amri",
+          "al-amri"
+        ],
+        "Hassan Al-Tambakti": [
+          "al-tambakti",
+          "hassan al-tambakti"
+        ],
+        "Nasser Al-Dawsari": [
+          "al-dawsari",
+          "nasser al-dawsari"
+        ],
+        "Musab Al-Juwayr": [
+          "al-juwayr",
+          "musab al-juwayr"
+        ],
+        "Ayman Yahya": [
+          "ayman yahya",
+          "yahya"
+        ],
+        "Firas Al-Buraikan": [
+          "al-buraikan",
+          "firas al-buraikan"
+        ],
+        "Salem Al-Dawsari": [
+          "al-dawsari",
+          "salem al-dawsari"
+        ],
+        "Saleh Al-Shehri": [
+          "al-shehri",
+          "saleh al-shehri"
+        ],
+        "Saud Abdulhamid": [
+          "abdulhamid",
+          "saud abdulhamid"
+        ],
+        "Nawaf Boushal": [
+          "boushal",
+          "nawaf boushal"
+        ],
+        "Hassan Kadesh": [
+          "hassan kadesh",
+          "kadesh"
+        ],
+        "Abdullah Al-Khaibari": [
+          "abdullah al-khaibari",
+          "al-khaibari"
+        ],
+        "Ziyad Al-Johani": [
+          "al-johani",
+          "ziyad al-johani"
+        ],
+        "Khalid Al-Ghannam": [
+          "al-ghannam",
+          "khalid al-ghannam"
+        ],
+        "Alaa Al-Hejji": [
+          "al-hejji",
+          "alaa al-hejji"
+        ],
+        "Abdullah Al-Hamdan": [
+          "abdullah al-hamdan",
+          "al-hamdan"
+        ],
+        "Sultan Mandash": [
+          "mandash",
+          "sultan mandash"
+        ],
+        "Mohammed Al-Owais": [
+          "al-owais",
+          "mohammed al-owais"
+        ],
+        "Ahmed Al-Kassar": [
+          "ahmed al-kassar",
+          "al-kassar"
+        ],
+        "Mohamed Kanno": [
+          "kanno",
+          "mohamed kanno"
+        ],
+        "Moteb Al-Harbi": [
+          "al-harbi",
+          "moteb al-harbi"
+        ],
+        "Jehad Thakri": [
+          "jehad thakri",
+          "thakri"
+        ],
+        "Mohammed Abu Al-Shamat": [
+          "al-shamat",
+          "mohammed abu al-shamat"
+        ]
+      }
+    },
+    "Scotland": {
+      "aliases": [
+        "sco",
+        "scotland",
+        "scottish"
+      ],
+      "manager": {
+        "name": "Steve Clarke",
+        "aliases": [
+          "clarke",
+          "steve clarke"
+        ]
+      },
+      "players": {
+        "Angus Gunn": [
+          "angus gunn",
+          "gunn"
+        ],
+        "Aaron Hickey": [
+          "aaron hickey",
+          "hickey"
+        ],
+        "Andy Robertson": [
+          "andy robertson",
+          "robertson"
+        ],
+        "Scott McTominay": [
+          "mctominay",
+          "scott mctominay"
+        ],
+        "Grant Hanley": [
+          "grant hanley",
+          "hanley"
+        ],
+        "Kieran Tierney": [
+          "kieran tierney",
+          "tierney"
+        ],
+        "John McGinn": [
+          "john mcginn",
+          "mcginn"
+        ],
+        "Tyler Fletcher": [
+          "fletcher",
+          "tyler fletcher"
+        ],
+        "Lyndon Dykes": [
+          "dykes",
+          "lyndon dykes"
+        ],
+        "Ché Adams": [
+          "adams",
+          "che adams",
+          "ché adams"
+        ],
+        "Ryan Christie": [
+          "christie",
+          "ryan christie"
+        ],
+        "Liam Kelly": [
+          "kelly",
+          "liam kelly"
+        ],
+        "Jack Hendry": [
+          "hendry",
+          "jack hendry"
+        ],
+        "Ross Stewart": [
+          "ross stewart",
+          "stewart"
+        ],
+        "John Souttar": [
+          "john souttar",
+          "souttar"
+        ],
+        "Dominic Hyam": [
+          "dominic hyam",
+          "hyam"
+        ],
+        "Ben Gannon-Doak": [
+          "ben gannon-doak",
+          "gannon-doak"
+        ],
+        "George Hirst": [
+          "george hirst",
+          "hirst"
+        ],
+        "Lewis Ferguson": [
+          "ferguson",
+          "lewis ferguson"
+        ],
+        "Lawrence Shankland": [
+          "lawrence shankland",
+          "shankland"
+        ],
+        "Craig Gordon": [
+          "craig gordon",
+          "gordon"
+        ],
+        "Nathan Patterson": [
+          "nathan patterson",
+          "patterson"
+        ],
+        "Kenny McLean": [
+          "kenny mclean",
+          "mclean"
+        ],
+        "Anthony Ralston": [
+          "anthony ralston",
+          "ralston"
+        ],
+        "Findlay Curtis": [
+          "curtis",
+          "findlay curtis"
+        ],
+        "Scott McKenna": [
+          "mckenna",
+          "scott mckenna"
+        ]
+      }
+    },
+    "Senegal": {
+      "aliases": [
+        "sen",
+        "senegal",
+        "senegalese"
+      ],
+      "manager": {
+        "name": "Pape Thiaw",
+        "aliases": [
+          "pape thiaw",
+          "thiaw"
+        ]
+      },
+      "players": {
+        "Yehvann Diouf": [
+          "diouf",
+          "yehvann diouf"
+        ],
+        "Mamadou Sarr": [
+          "mamadou sarr",
+          "sarr"
+        ],
+        "Kalidou Koulibaly": [
+          "kalidou koulibaly",
+          "koulibaly"
+        ],
+        "Abdoulaye Seck": [
+          "abdoulaye seck",
+          "seck"
+        ],
+        "Idrissa Gueye": [
+          "gueye",
+          "idrissa gueye"
+        ],
+        "Pathé Ciss": [
+          "ciss",
+          "pathe ciss",
+          "pathé ciss"
+        ],
+        "Assane Diao": [
+          "assane diao",
+          "diao"
+        ],
+        "Lamine Camara": [
+          "camara",
+          "lamine camara"
+        ],
+        "Bamba Dieng": [
+          "bamba dieng",
+          "dieng"
+        ],
+        "Sadio Mané": [
+          "mane",
+          "sadio mane",
+          "sadio mané"
+        ],
+        "Nicolas Jackson": [
+          "jackson",
+          "nicolas jackson"
+        ],
+        "Cherif Ndiaye": [
+          "cherif ndiaye",
+          "ndiaye"
+        ],
+        "Iliman Ndiaye": [
+          "iliman ndiaye",
+          "ndiaye"
+        ],
+        "Ismail Jakobs": [
+          "ismail jakobs",
+          "jakobs"
+        ],
+        "Krépin Diatta": [
+          "diatta",
+          "krepin diatta",
+          "krépin diatta"
+        ],
+        "Édouard Mendy": [
+          "edouard mendy",
+          "mendy",
+          "édouard mendy"
+        ],
+        "Pape Matar Sarr": [
+          "pape matar sarr",
+          "sarr"
+        ],
+        "Ismaïla Sarr": [
+          "ismaila sarr",
+          "ismaïla sarr",
+          "sarr"
+        ],
+        "Moussa Niakhaté": [
+          "moussa niakhate",
+          "moussa niakhaté",
+          "niakhate"
+        ],
+        "Ibrahim Mbaye": [
+          "ibrahim mbaye",
+          "mbaye"
+        ],
+        "Habib Diarra": [
+          "diarra",
+          "habib diarra"
+        ],
+        "Bara Sapoko Ndiaye": [
+          "bara sapoko ndiaye",
+          "ndiaye"
+        ],
+        "Mory Diaw": [
+          "diaw",
+          "mory diaw"
+        ],
+        "Antoine Mendy": [
+          "antoine mendy",
+          "mendy"
+        ],
+        "El Hadji Malick Diouf": [
+          "diouf",
+          "el hadji malick diouf"
+        ],
+        "Pape Gueye": [
+          "gueye",
+          "pape gueye"
+        ]
+      }
+    },
+    "South Africa": {
+      "aliases": [
+        "bafana bafana",
+        "rsa",
+        "south africa",
+        "south african"
+      ],
+      "manager": {
+        "name": "Hugo Broos",
+        "aliases": [
+          "broos",
+          "hugo broos"
+        ]
+      },
+      "players": {
+        "Ronwen Williams": [
+          "ronwen williams",
+          "williams"
+        ],
+        "Thabang Matuludi": [
+          "matuludi",
+          "thabang matuludi"
+        ],
+        "Khulumani Ndamane": [
+          "khulumani ndamane",
+          "ndamane"
+        ],
+        "Teboho Mokoena": [
+          "mokoena",
+          "teboho mokoena"
+        ],
+        "Thalente Mbatha": [
+          "mbatha",
+          "thalente mbatha"
+        ],
+        "Aubrey Modiba": [
+          "aubrey modiba",
+          "modiba"
+        ],
+        "Oswin Appollis": [
+          "appollis",
+          "oswin appollis"
+        ],
+        "Tshepang Moremi": [
+          "moremi",
+          "tshepang moremi"
+        ],
+        "Lyle Foster": [
+          "foster",
+          "lyle foster"
+        ],
+        "Relebohile Mofokeng": [
+          "mofokeng",
+          "relebohile mofokeng"
+        ],
+        "Themba Zwane": [
+          "themba zwane",
+          "zwane"
+        ],
+        "Thapelo Maseko": [
+          "maseko",
+          "thapelo maseko"
+        ],
+        "Sphephelo Sithole": [
+          "sithole",
+          "sphephelo sithole"
+        ],
+        "Mbekezeli Mbokazi": [
+          "mbekezeli mbokazi",
+          "mbokazi"
+        ],
+        "Iqraam Rayners": [
+          "iqraam rayners",
+          "rayners"
+        ],
+        "Sipho Chaine": [
+          "chaine",
+          "sipho chaine"
+        ],
+        "Evidence Makgopa": [
+          "evidence makgopa",
+          "makgopa"
+        ],
+        "Samukele Kabini": [
+          "kabini",
+          "samukele kabini"
+        ],
+        "Nkosinathi Sibisi": [
+          "nkosinathi sibisi",
+          "sibisi"
+        ],
+        "Khuliso Mudau": [
+          "khuliso mudau",
+          "mudau"
+        ],
+        "Ime Okon": [
+          "ime okon",
+          "okon"
+        ],
+        "Ricardo Goss": [
+          "goss",
+          "ricardo goss"
+        ],
+        "Jayden Adams": [
+          "adams",
+          "jayden adams"
+        ],
+        "Olwethu Makhanya": [
+          "makhanya",
+          "olwethu makhanya"
+        ],
+        "Kamogelo Sebelebele": [
+          "kamogelo sebelebele",
+          "sebelebele"
+        ],
+        "Bradley Cross": [
+          "bradley cross",
+          "cross"
+        ]
+      }
+    },
+    "South Korea": {
+      "aliases": [
+        "kor",
+        "korea",
+        "korean",
+        "republic of korea",
+        "south korea"
+      ],
+      "manager": {
+        "name": "Hong Myung-bo",
+        "aliases": [
+          "hong myung-bo",
+          "myung-bo"
+        ]
+      },
+      "players": {
+        "Kim Seung-gyu": [
+          "kim seung-gyu",
+          "seung-gyu"
+        ],
+        "Lee Han-beom": [
+          "han-beom",
+          "lee han-beom"
+        ],
+        "Lee Gi-hyuk": [
+          "gi-hyuk",
+          "lee gi-hyuk"
+        ],
+        "Kim Min-jae": [
+          "kim min-jae",
+          "min-jae"
+        ],
+        "Kim Tae-hyeon": [
+          "kim tae-hyeon",
+          "tae-hyeon"
+        ],
+        "Hwang In-beom": [
+          "hwang in-beom",
+          "in-beom"
+        ],
+        "Son Heung-min": [
+          "heung-min",
+          "son heung-min"
+        ],
+        "Paik Seung-ho": [
+          "paik seung-ho",
+          "seung-ho"
+        ],
+        "Cho Gue-sung": [
+          "cho gue-sung",
+          "gue-sung"
+        ],
+        "Lee Jae-sung": [
+          "jae-sung",
+          "lee jae-sung"
+        ],
+        "Hwang Hee-chan": [
+          "hee-chan",
+          "hwang hee-chan"
+        ],
+        "Song Bum-keun": [
+          "bum-keun",
+          "song bum-keun"
+        ],
+        "Lee Tae-seok": [
+          "lee tae-seok",
+          "tae-seok"
+        ],
+        "Cho Wi-je": [
+          "cho wi-je",
+          "wi-je"
+        ],
+        "Kim Moon-hwan": [
+          "kim moon-hwan",
+          "moon-hwan"
+        ],
+        "Park Jin-seob": [
+          "jin-seob",
+          "park jin-seob"
+        ],
+        "Bae Jun-ho": [
+          "bae jun-ho",
+          "jun-ho"
+        ],
+        "Oh Hyeon-gyu": [
+          "hyeon-gyu",
+          "oh hyeon-gyu"
+        ],
+        "Lee Kang-in": [
+          "kang-in",
+          "lee kang-in"
+        ],
+        "Yang Hyun-jun": [
+          "hyun-jun",
+          "yang hyun-jun"
+        ],
+        "Jo Hyeon-woo": [
+          "hyeon-woo",
+          "jo hyeon-woo"
+        ],
+        "Seol Young-woo": [
+          "seol young-woo",
+          "young-woo"
+        ],
+        "Jens Castrop": [
+          "castrop",
+          "jens castrop"
+        ],
+        "Kim Jin-gyu": [
+          "jin-gyu",
+          "kim jin-gyu"
+        ],
+        "Eom Ji-sung": [
+          "eom ji-sung",
+          "ji-sung"
+        ],
+        "Lee Dong-gyeong": [
+          "dong-gyeong",
+          "lee dong-gyeong"
+        ]
+      }
+    },
+    "Spain": {
+      "aliases": [
+        "esp",
+        "la roja",
+        "spain",
+        "spanish"
+      ],
+      "manager": {
+        "name": "Luis de la Fuente",
+        "aliases": [
+          "de la fuente",
+          "fuente",
+          "luis de la fuente"
+        ]
+      },
+      "players": {
+        "David Raya": [
+          "david raya",
+          "raya"
+        ],
+        "Marc Pubill": [
+          "marc pubill",
+          "pubill"
+        ],
+        "Álex Grimaldo": [
+          "alex grimaldo",
+          "grimaldo",
+          "álex grimaldo"
+        ],
+        "Eric García": [
+          "eric garcia",
+          "eric garcía",
+          "garcia"
+        ],
+        "Marcos Llorente": [
+          "llorente",
+          "marcos llorente"
+        ],
+        "Mikel Merino": [
+          "merino",
+          "mikel merino"
+        ],
+        "Ferran Torres": [
+          "ferran torres",
+          "torres"
+        ],
+        "Fabián Ruiz": [
+          "fabian ruiz",
+          "fabián ruiz",
+          "ruiz"
+        ],
+        "Gavi": [
+          "gavi"
+        ],
+        "Dani Olmo": [
+          "dani olmo",
+          "olmo"
+        ],
+        "Yéremy Pino": [
+          "pino",
+          "yeremy pino",
+          "yéremy pino"
+        ],
+        "Pedro Porro": [
+          "pedro porro",
+          "porro"
+        ],
+        "Joan Garcia": [
+          "garcia",
+          "joan garcia"
+        ],
+        "Aymeric Laporte": [
+          "aymeric laporte",
+          "laporte"
+        ],
+        "Álex Baena": [
+          "alex baena",
+          "baena",
+          "álex baena"
+        ],
+        "Rodri": [
+          "rodri"
+        ],
+        "Nico Williams": [
+          "nico williams",
+          "williams"
+        ],
+        "Martín Zubimendi": [
+          "martin zubimendi",
+          "martín zubimendi",
+          "zubimendi"
+        ],
+        "Lamine Yamal": [
+          "lamine yamal",
+          "yamal"
+        ],
+        "Pedri": [
+          "pedri"
+        ],
+        "Mikel Oyarzabal": [
+          "mikel oyarzabal",
+          "oyarzabal"
+        ],
+        "Pau Cubarsí": [
+          "cubarsi",
+          "pau cubarsi",
+          "pau cubarsí"
+        ],
+        "Unai Simón": [
+          "simon",
+          "unai simon",
+          "unai simón"
+        ],
+        "Marc Cucurella": [
+          "cucurella",
+          "marc cucurella"
+        ],
+        "Víctor Muñoz": [
+          "munoz",
+          "victor munoz",
+          "víctor muñoz"
+        ],
+        "Borja Iglesias": [
+          "borja iglesias",
+          "iglesias"
+        ]
+      }
+    },
+    "Sweden": {
+      "aliases": [
+        "swe",
+        "sweden",
+        "swedish"
+      ],
+      "manager": {
+        "name": "Graham Potter",
+        "aliases": [
+          "graham potter",
+          "potter"
+        ]
+      },
+      "players": {
+        "Jacob Widell Zetterström": [
+          "jacob widell zetterstrom",
+          "jacob widell zetterström",
+          "zetterstrom"
+        ],
+        "Gustaf Lagerbielke": [
+          "gustaf lagerbielke",
+          "lagerbielke"
+        ],
+        "Victor Lindelöf": [
+          "lindelof",
+          "victor lindelof",
+          "victor lindelöf"
+        ],
+        "Isak Hien": [
+          "hien",
+          "isak hien"
+        ],
+        "Gabriel Gudmundsson": [
+          "gabriel gudmundsson",
+          "gudmundsson"
+        ],
+        "Herman Johansson": [
+          "herman johansson",
+          "johansson"
+        ],
+        "Lucas Bergvall": [
+          "bergvall",
+          "lucas bergvall"
+        ],
+        "Daniel Svensson": [
+          "daniel svensson",
+          "svensson"
+        ],
+        "Alexander Isak": [
+          "alexander isak",
+          "isak"
+        ],
+        "Benjamin Nygren": [
+          "benjamin nygren",
+          "nygren"
+        ],
+        "Anthony Elanga": [
+          "anthony elanga",
+          "elanga"
+        ],
+        "Viktor Johansson": [
+          "johansson",
+          "viktor johansson"
+        ],
+        "Ken Sema": [
+          "ken sema",
+          "sema"
+        ],
+        "Hjalmar Ekdal": [
+          "ekdal",
+          "hjalmar ekdal"
+        ],
+        "Carl Starfelt": [
+          "carl starfelt",
+          "starfelt"
+        ],
+        "Jesper Karlström": [
+          "jesper karlstrom",
+          "jesper karlström",
+          "karlstrom"
+        ],
+        "Viktor Gyökeres": [
+          "gyokeres",
+          "viktor gyokeres",
+          "viktor gyökeres"
+        ],
+        "Yasin Ayari": [
+          "ayari",
+          "yasin ayari"
+        ],
+        "Mattias Svanberg": [
+          "mattias svanberg",
+          "svanberg"
+        ],
+        "Eric Smith": [
+          "eric smith",
+          "smith"
+        ],
+        "Alexander Bernhardsson": [
+          "alexander bernhardsson",
+          "bernhardsson"
+        ],
+        "Besfort Zeneli": [
+          "besfort zeneli",
+          "zeneli"
+        ],
+        "Kristoffer Nordfeldt": [
+          "kristoffer nordfeldt",
+          "nordfeldt"
+        ],
+        "Elliot Stroud": [
+          "elliot stroud",
+          "stroud"
+        ],
+        "Gustaf Nilsson": [
+          "gustaf nilsson",
+          "nilsson"
+        ],
+        "Taha Ali": [
+          "taha ali"
+        ]
+      }
+    },
+    "Switzerland": {
+      "aliases": [
+        "sui",
+        "swiss",
+        "switzerland"
+      ],
+      "manager": {
+        "name": "Murat Yakin",
+        "aliases": [
+          "murat yakin",
+          "yakin"
+        ]
+      },
+      "players": {
+        "Gregor Kobel": [
+          "gregor kobel",
+          "kobel"
+        ],
+        "Miro Muheim": [
+          "miro muheim",
+          "muheim"
+        ],
+        "Silvan Widmer": [
+          "silvan widmer",
+          "widmer"
+        ],
+        "Nico Elvedi": [
+          "elvedi",
+          "nico elvedi"
+        ],
+        "Manuel Akanji": [
+          "akanji",
+          "manuel akanji"
+        ],
+        "Denis Zakaria": [
+          "denis zakaria",
+          "zakaria"
+        ],
+        "Breel Embolo": [
+          "breel embolo",
+          "embolo"
+        ],
+        "Remo Freuler": [
+          "freuler",
+          "remo freuler"
+        ],
+        "Johan Manzambi": [
+          "johan manzambi",
+          "manzambi"
+        ],
+        "Granit Xhaka": [
+          "granit xhaka",
+          "xhaka"
+        ],
+        "Dan Ndoye": [
+          "dan ndoye",
+          "ndoye"
+        ],
+        "Yvon Mvogo": [
+          "mvogo",
+          "yvon mvogo"
+        ],
+        "Ricardo Rodriguez": [
+          "ricardo rodriguez",
+          "rodriguez"
+        ],
+        "Ardon Jashari": [
+          "ardon jashari",
+          "jashari"
+        ],
+        "Djibril Sow": [
+          "djibril sow"
+        ],
+        "Christian Fassnacht": [
+          "christian fassnacht",
+          "fassnacht"
+        ],
+        "Rubén Vargas": [
+          "ruben vargas",
+          "rubén vargas",
+          "vargas"
+        ],
+        "Eray Cömert": [
+          "comert",
+          "eray comert",
+          "eray cömert"
+        ],
+        "Noah Okafor": [
+          "noah okafor",
+          "okafor"
+        ],
+        "Michel Aebischer": [
+          "aebischer",
+          "michel aebischer"
+        ],
+        "Marvin Keller": [
+          "keller",
+          "marvin keller"
+        ],
+        "Fabian Rieder": [
+          "fabian rieder",
+          "rieder"
+        ],
+        "Zeki Amdouni": [
+          "amdouni",
+          "zeki amdouni"
+        ],
+        "Aurèle Amenda": [
+          "amenda",
+          "aurele amenda",
+          "aurèle amenda"
+        ],
+        "Luca Jaquez": [
+          "jaquez",
+          "luca jaquez"
+        ],
+        "Cedric Itten": [
+          "cedric itten",
+          "itten"
+        ]
+      }
+    },
+    "Tunisia": {
+      "aliases": [
+        "tun",
+        "tunisia",
+        "tunisian"
+      ],
+      "manager": {
+        "name": "Hervé Renard",
+        "aliases": [
+          "herve renard",
+          "hervé renard",
+          "renard"
+        ]
+      },
+      "players": {
+        "Mouhib Chamakh": [
+          "chamakh",
+          "mouhib chamakh"
+        ],
+        "Ali Abdi": [
+          "abdi",
+          "ali abdi"
+        ],
+        "Montassar Talbi": [
+          "montassar talbi",
+          "talbi"
+        ],
+        "Omar Rekik": [
+          "omar rekik",
+          "rekik"
+        ],
+        "Adem Arous": [
+          "adem arous",
+          "arous"
+        ],
+        "Dylan Bronn": [
+          "bronn",
+          "dylan bronn"
+        ],
+        "Elias Achouri": [
+          "achouri",
+          "elias achouri"
+        ],
+        "Elias Saad": [
+          "elias saad",
+          "saad"
+        ],
+        "Hazem Mastouri": [
+          "hazem mastouri",
+          "mastouri"
+        ],
+        "Hannibal Mejbri": [
+          "hannibal mejbri",
+          "mejbri"
+        ],
+        "Ismaël Gharbi": [
+          "gharbi",
+          "ismael gharbi",
+          "ismaël gharbi"
+        ],
+        "Mortadha Ben Ouanes": [
+          "mortadha ben ouanes",
+          "ouanes"
+        ],
+        "Rani Khedira": [
+          "khedira",
+          "rani khedira"
+        ],
+        "Khalil Ayari": [
+          "ayari",
+          "khalil ayari"
+        ],
+        "Hadj Mahmoud": [
+          "hadj mahmoud",
+          "mahmoud"
+        ],
+        "Aymen Dahmen": [
+          "aymen dahmen",
+          "dahmen"
+        ],
+        "Ellyes Skhiri": [
+          "ellyes skhiri",
+          "skhiri"
+        ],
+        "Rayan Elloumi": [
+          "elloumi",
+          "rayan elloumi"
+        ],
+        "Firas Chaouat": [
+          "chaouat",
+          "firas chaouat"
+        ],
+        "Yan Valery": [
+          "valery",
+          "yan valery"
+        ],
+        "Mohamed Amine Ben Hamida": [
+          "hamida",
+          "mohamed amine ben hamida"
+        ],
+        "Sabri Ben Hessen": [
+          "hessen",
+          "sabri ben hessen"
+        ],
+        "Moutaz Neffati": [
+          "moutaz neffati",
+          "neffati"
+        ],
+        "Raed Chikhaoui": [
+          "chikhaoui",
+          "raed chikhaoui"
+        ],
+        "Anis Ben Slimane": [
+          "anis ben slimane",
+          "slimane"
+        ],
+        "Sebastian Tounekti": [
+          "sebastian tounekti",
+          "tounekti"
+        ]
+      }
+    },
+    "Turkey": {
+      "aliases": [
+        "tur",
+        "turkey",
+        "turkish",
+        "turkiye",
+        "türkiye"
+      ],
+      "manager": {
+        "name": "Vincenzo Montella",
+        "aliases": [
+          "montella",
+          "vincenzo montella"
+        ]
+      },
+      "players": {
+        "Mert Günok": [
+          "gunok",
+          "mert gunok",
+          "mert günok"
+        ],
+        "Zeki Çelik": [
+          "celik",
+          "zeki celik",
+          "zeki çelik"
+        ],
+        "Merih Demiral": [
+          "demiral",
+          "merih demiral"
+        ],
+        "Çağlar Söyüncü": [
+          "caglar soyuncu",
+          "soyuncu",
+          "çağlar söyüncü"
+        ],
+        "Salih Özcan": [
+          "ozcan",
+          "salih ozcan",
+          "salih özcan"
+        ],
+        "Orkun Kökçü": [
+          "kokcu",
+          "orkun kokcu",
+          "orkun kökçü"
+        ],
+        "Kerem Aktürkoğlu": [
+          "akturkoglu",
+          "kerem akturkoglu",
+          "kerem aktürkoğlu"
+        ],
+        "Arda Güler": [
+          "arda guler",
+          "arda güler",
+          "guler"
+        ],
+        "Deniz Gül": [
+          "deniz gul",
+          "deniz gül"
+        ],
+        "Hakan Çalhanoğlu": [
+          "calhanoglu",
+          "hakan calhanoglu",
+          "hakan çalhanoğlu"
+        ],
+        "Kenan Yıldız": [
+          "kenan yldz",
+          "kenan yıldız",
+          "yldz"
+        ],
+        "Altay Bayındır": [
+          "altay bayndr",
+          "altay bayındır",
+          "bayndr"
+        ],
+        "Eren Elmalı": [
+          "elmal",
+          "eren elmal",
+          "eren elmalı"
+        ],
+        "Abdülkerim Bardakcı": [
+          "abdulkerim bardakc",
+          "abdülkerim bardakcı",
+          "bardakc"
+        ],
+        "Ozan Kabak": [
+          "kabak",
+          "ozan kabak"
+        ],
+        "İsmail Yüksek": [
+          "ismail yuksek",
+          "i̇smail yüksek",
+          "yuksek"
+        ],
+        "İrfan Can Kahveci": [
+          "irfan can kahveci",
+          "i̇rfan can kahveci",
+          "kahveci"
+        ],
+        "Mert Müldür": [
+          "mert muldur",
+          "mert müldür",
+          "muldur"
+        ],
+        "Yunus Akgün": [
+          "akgun",
+          "yunus akgun",
+          "yunus akgün"
+        ],
+        "Ferdi Kadıoğlu": [
+          "ferdi kadoglu",
+          "ferdi kadıoğlu",
+          "kadoglu"
+        ],
+        "Barış Alper Yılmaz": [
+          "bars alper ylmaz",
+          "barış alper yılmaz",
+          "ylmaz"
+        ],
+        "Kaan Ayhan": [
+          "ayhan",
+          "kaan ayhan"
+        ],
+        "Uğurcan Çakır": [
+          "cakr",
+          "ugurcan cakr",
+          "uğurcan çakır"
+        ],
+        "Oğuz Aydın": [
+          "aydn",
+          "oguz aydn",
+          "oğuz aydın"
+        ],
+        "Samet Akaydin": [
+          "akaydin",
+          "samet akaydin"
+        ],
+        "Can Uzun": [
+          "can uzun",
+          "uzun"
+        ]
+      }
+    },
+    "United States": {
+      "aliases": [
+        "united states",
+        "united states of america",
+        "usa",
+        "usmnt"
+      ],
+      "manager": {
+        "name": "Mauricio Pochettino",
+        "aliases": [
+          "mauricio pochettino",
+          "pochettino"
+        ]
+      },
+      "players": {
+        "Matt Turner": [
+          "matt turner",
+          "turner"
+        ],
+        "Sergiño Dest": [
+          "dest",
+          "sergino dest",
+          "sergiño dest"
+        ],
+        "Chris Richards": [
+          "chris richards",
+          "richards"
+        ],
+        "Tyler Adams": [
+          "adams",
+          "tyler adams"
+        ],
+        "Antonee Robinson": [
+          "antonee robinson",
+          "robinson"
+        ],
+        "Auston Trusty": [
+          "auston trusty",
+          "trusty"
+        ],
+        "Giovanni Reyna": [
+          "giovanni reyna",
+          "reyna"
+        ],
+        "Weston McKennie": [
+          "mckennie",
+          "weston mckennie"
+        ],
+        "Ricardo Pepi": [
+          "pepi",
+          "ricardo pepi"
+        ],
+        "Christian Pulisic": [
+          "christian pulisic",
+          "pulisic"
+        ],
+        "Brenden Aaronson": [
+          "aaronson",
+          "brenden aaronson"
+        ],
+        "Miles Robinson": [
+          "miles robinson",
+          "robinson"
+        ],
+        "Tim Ream": [
+          "ream",
+          "tim ream"
+        ],
+        "Sebastian Berhalter": [
+          "berhalter",
+          "sebastian berhalter"
+        ],
+        "Cristian Roldan": [
+          "cristian roldan",
+          "roldan"
+        ],
+        "Alex Freeman": [
+          "alex freeman",
+          "freeman"
+        ],
+        "Malik Tillman": [
+          "malik tillman",
+          "tillman"
+        ],
+        "Max Arfsten": [
+          "arfsten",
+          "max arfsten"
+        ],
+        "Haji Wright": [
+          "haji wright",
+          "wright"
+        ],
+        "Folarin Balogun": [
+          "balogun",
+          "folarin balogun"
+        ],
+        "Timothy Weah": [
+          "timothy weah",
+          "weah"
+        ],
+        "Mark McKenzie": [
+          "mark mckenzie",
+          "mckenzie"
+        ],
+        "Joe Scally": [
+          "joe scally",
+          "scally"
+        ],
+        "Matt Freese": [
+          "freese",
+          "matt freese"
+        ],
+        "Chris Brady": [
+          "brady",
+          "chris brady"
+        ],
+        "Alejandro Zendejas": [
+          "alejandro zendejas",
+          "zendejas"
+        ]
+      }
+    },
+    "Uruguay": {
+      "aliases": [
+        "uru",
+        "uruguay",
+        "uruguayan"
+      ],
+      "manager": {
+        "name": "Marcelo Bielsa",
+        "aliases": [
+          "bielsa",
+          "marcelo bielsa"
+        ]
+      },
+      "players": {
+        "Sergio Rochet": [
+          "rochet",
+          "sergio rochet"
+        ],
+        "José María Giménez": [
+          "gimenez",
+          "jose maria gimenez",
+          "josé maría giménez"
+        ],
+        "Sebastián Cáceres": [
+          "caceres",
+          "sebastian caceres",
+          "sebastián cáceres"
+        ],
+        "Ronald Araújo": [
+          "araujo",
+          "ronald araujo",
+          "ronald araújo"
+        ],
+        "Manuel Ugarte": [
+          "manuel ugarte",
+          "ugarte"
+        ],
+        "Rodrigo Bentancur": [
+          "bentancur",
+          "rodrigo bentancur"
+        ],
+        "Nicolás de la Cruz": [
+          "cruz",
+          "nicolas de la cruz",
+          "nicolás de la cruz"
+        ],
+        "Federico Valverde": [
+          "federico valverde",
+          "valverde"
+        ],
+        "Darwin Núñez": [
+          "darwin nunez",
+          "darwin núñez",
+          "nunez"
+        ],
+        "Giorgian de Arrascaeta": [
+          "arrascaeta",
+          "giorgian de arrascaeta"
+        ],
+        "Facundo Pellistri": [
+          "facundo pellistri",
+          "pellistri"
+        ],
+        "Santiago Mele": [
+          "mele",
+          "santiago mele"
+        ],
+        "Guillermo Varela": [
+          "guillermo varela",
+          "varela"
+        ],
+        "Agustín Canobbio": [
+          "agustin canobbio",
+          "agustín canobbio",
+          "canobbio"
+        ],
+        "Emiliano Martínez": [
+          "emiliano martinez",
+          "emiliano martínez",
+          "martinez"
+        ],
+        "Mathías Olivera": [
+          "mathias olivera",
+          "mathías olivera",
+          "olivera"
+        ],
+        "Matías Viña": [
+          "matias vina",
+          "matías viña",
+          "vina"
+        ],
+        "Brian Rodríguez": [
+          "brian rodriguez",
+          "brian rodríguez",
+          "rodriguez"
+        ],
+        "Rodrigo Aguirre": [
+          "aguirre",
+          "rodrigo aguirre"
+        ],
+        "Maximiliano Araújo": [
+          "araujo",
+          "maximiliano araujo",
+          "maximiliano araújo"
+        ],
+        "Federico Viñas": [
+          "federico vinas",
+          "federico viñas",
+          "vinas"
+        ],
+        "Joaquín Piquerez": [
+          "joaquin piquerez",
+          "joaquín piquerez",
+          "piquerez"
+        ],
+        "Fernando Muslera": [
+          "fernando muslera",
+          "muslera"
+        ],
+        "Santiago Bueno": [
+          "bueno",
+          "santiago bueno"
+        ],
+        "Juan Manuel Sanabria": [
+          "juan manuel sanabria",
+          "sanabria"
+        ],
+        "Rodrigo Zalazar": [
+          "rodrigo zalazar",
+          "zalazar"
+        ]
+      }
+    },
+    "Uzbekistan": {
+      "aliases": [
+        "uzb",
+        "uzbek",
+        "uzbekistan"
+      ],
+      "manager": {
+        "name": "Fabio Cannavaro",
+        "aliases": [
+          "cannavaro",
+          "fabio cannavaro"
+        ]
+      },
+      "players": {
+        "Utkir Yusupov": [
+          "utkir yusupov",
+          "yusupov"
+        ],
+        "Abdukodir Khusanov": [
+          "abdukodir khusanov",
+          "khusanov"
+        ],
+        "Khojiakbar Alijonov": [
+          "alijonov",
+          "khojiakbar alijonov"
+        ],
+        "Farrukh Sayfiev": [
+          "farrukh sayfiev",
+          "sayfiev"
+        ],
+        "Rustam Ashurmatov": [
+          "ashurmatov",
+          "rustam ashurmatov"
+        ],
+        "Akmal Mozgovoy": [
+          "akmal mozgovoy",
+          "mozgovoy"
+        ],
+        "Otabek Shukurov": [
+          "otabek shukurov",
+          "shukurov"
+        ],
+        "Jamshid Iskanderov": [
+          "iskanderov",
+          "jamshid iskanderov"
+        ],
+        "Odiljon Hamrobekov": [
+          "hamrobekov",
+          "odiljon hamrobekov"
+        ],
+        "Ruslanbek Jiyanov": [
+          "jiyanov",
+          "ruslanbek jiyanov"
+        ],
+        "Oston Urunov": [
+          "oston urunov",
+          "urunov"
+        ],
+        "Abduvohid Nematov": [
+          "abduvohid nematov",
+          "nematov"
+        ],
+        "Sherzod Nasrullaev": [
+          "nasrullaev",
+          "sherzod nasrullaev"
+        ],
+        "Eldor Shomurodov": [
+          "eldor shomurodov",
+          "shomurodov"
+        ],
+        "Umar Eshmurodov": [
+          "eshmurodov",
+          "umar eshmurodov"
+        ],
+        "Botirali Ergashev": [
+          "botirali ergashev",
+          "ergashev"
+        ],
+        "Dostonbek Khamdamov": [
+          "dostonbek khamdamov",
+          "khamdamov"
+        ],
+        "Abdulla Abdullaev": [
+          "abdulla abdullaev",
+          "abdullaev"
+        ],
+        "Azizjon Ganiev": [
+          "azizjon ganiev",
+          "ganiev"
+        ],
+        "Azizbek Amonov": [
+          "amonov",
+          "azizbek amonov"
+        ],
+        "Igor Sergeev": [
+          "igor sergeev",
+          "sergeev"
+        ],
+        "Abbosbek Fayzullaev": [
+          "abbosbek fayzullaev",
+          "fayzullaev"
+        ],
+        "Sherzod Esanov": [
+          "esanov",
+          "sherzod esanov"
+        ],
+        "Bekhruz Karimov": [
+          "bekhruz karimov",
+          "karimov"
+        ],
+        "Avazbek Ulmasaliev": [
+          "avazbek ulmasaliev",
+          "ulmasaliev"
+        ],
+        "Jakhongir Urozov": [
+          "jakhongir urozov",
+          "urozov"
+        ]
+      }
+    }
+  },
+  "generic_football_terms": [
+    "assist",
+    "back four",
+    "back line",
+    "back three",
+    "bench",
+    "build up",
+    "buildup",
+    "coach",
+    "comeback",
+    "corner",
+    "counter attack",
+    "counterattack",
+    "cup",
+    "defensive line",
+    "double pivot",
+    "equalizer",
+    "final",
+    "finish",
+    "formation",
+    "football",
+    "foul",
+    "free kick",
+    "game",
+    "game plan",
+    "goal",
+    "goat",
+    "head coach",
+    "high line",
+    "keeper",
+    "lineup",
+    "low block",
+    "manager",
+    "match",
+    "midfield",
+    "number 10",
+    "offside",
+    "overload",
+    "penalty",
+    "pivot",
+    "player",
+    "possession",
+    "press",
+    "pressing",
+    "red card",
+    "ref",
+    "referee",
+    "rotation",
+    "save",
+    "score",
+    "scored",
+    "selection",
+    "set piece",
+    "shape",
+    "soccer",
+    "starting 11",
+    "starting xi",
+    "striker",
+    "sub",
+    "substitution",
+    "system",
+    "tactic",
+    "tactical",
+    "tactics",
+    "team",
+    "transition",
+    "var",
+    "winger",
+    "win",
+    "winner",
+    "world cup",
+    "yellow card"
+  ]
+}

@@ -1,0 +1,7 @@
+beautifulsoup4
+certifi
+pandas
+python-dotenv
+requests
+torch
+transformers

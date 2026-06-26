@@ -6,7 +6,9 @@ from src.data.preprocess import (
     annotate_replies,
     clean_text,
     is_match_relevant,
+    is_spam_text,
     is_usable_text,
+    preprocess_reply_buckets,
     preprocess_replies,
     preprocessing_summary,
     relevance_score,
@@ -52,6 +54,11 @@ class PreprocessTests(unittest.TestCase):
             relevance_score("Follow me for crypto giveaway", match="Portugal vs Spain"),
             1,
         )
+
+    def test_is_spam_text_detects_platform_and_ad_noise(self):
+        self.assertTrue(is_spam_text("Ask Grok is currently available on X"))
+        self.assertTrue(is_spam_text("Get iPhone 17 by switching to T-Mobile"))
+        self.assertFalse(is_spam_text("No one can achieve what this man achieved"))
 
     def test_preprocess_replies_filters_and_keeps_audit_columns(self):
         df = pd.DataFrame(
@@ -114,6 +121,151 @@ class PreprocessTests(unittest.TestCase):
         self.assertEqual(summary["analysis_rows"], 1)
         self.assertEqual(summary["removed_rows"], 1)
         self.assertEqual(summary["filter_reasons"], {"keep": 1, "unusable_text": 1})
+
+    def test_entity_only_reply_is_kept_and_enriched(self):
+        df = pd.DataFrame(
+            [
+                {
+                    "text": "Ronaldo",
+                    "match": "multiple",
+                    "team": None,
+                    "player": None,
+                    "event": None,
+                }
+            ]
+        )
+
+        analysis_df = preprocess_replies(df)
+
+        self.assertEqual(len(analysis_df), 1)
+        self.assertEqual(analysis_df.loc[0, "inferred_teams"], ["Portugal"])
+        self.assertEqual(analysis_df.loc[0, "inferred_players"], ["Cristiano Ronaldo"])
+        self.assertGreaterEqual(analysis_df.loc[0, "entity_confidence"], 1)
+
+    def test_manager_context_and_tactical_terms_are_relevant(self):
+        df = pd.DataFrame(
+            [
+                {
+                    "text": "Martinez got the formation wrong",
+                    "match": "Portugal vs Spain",
+                    "team": "Portugal",
+                    "player": None,
+                    "event": None,
+                }
+            ]
+        )
+
+        analysis_df = preprocess_replies(df)
+
+        self.assertEqual(len(analysis_df), 1)
+        self.assertEqual(analysis_df.loc[0, "inferred_managers"], ["Roberto Martínez"])
+        self.assertIn("formation", analysis_df.loc[0, "matched_entities"])
+
+
+    def test_vague_pronoun_reply_is_kept_with_parent_player_context(self):
+        df = pd.DataFrame(
+            [
+                {
+                    "text": "No one can ever achieve what this man has achieved",
+                    "match": "Portugal vs Spain",
+                    "team": "Portugal",
+                    "player": "Cristiano Ronaldo",
+                    "event": "record",
+                }
+            ]
+        )
+
+        analysis_df = preprocess_replies(df)
+
+        self.assertEqual(len(analysis_df), 1)
+        self.assertGreaterEqual(analysis_df.loc[0, "parent_context_confidence"], 1)
+        self.assertGreaterEqual(analysis_df.loc[0, "context_relevance_boost"], 1)
+        self.assertTrue(analysis_df.loc[0, "needs_context_review"])
+
+    def test_record_reply_is_kept_with_parent_context(self):
+        df = pd.DataFrame(
+            [
+                {
+                    "text": "Another record set!",
+                    "match": "Portugal vs Spain",
+                    "team": "Portugal",
+                    "player": "Cristiano Ronaldo",
+                    "event": "record",
+                }
+            ]
+        )
+
+        analysis_df = preprocess_replies(df)
+
+        self.assertEqual(len(analysis_df), 1)
+        self.assertIn("record", analysis_df.loc[0, "contextual_terms"])
+
+    def test_media_only_reply_stays_unusable_even_with_parent_context(self):
+        df = pd.DataFrame(
+            [
+                {
+                    "text": "@FIFAWorldCup https://x.com/i/status/123",
+                    "match": "Portugal vs Spain",
+                    "team": "Portugal",
+                    "player": "Cristiano Ronaldo",
+                    "event": "record",
+                }
+            ]
+        )
+
+        annotated = annotate_replies(df)
+
+        self.assertEqual(annotated.loc[0, "filter_reason"], "unusable_text")
+
+    def test_spam_reply_stays_removed_even_with_parent_context(self):
+        df = pd.DataFrame(
+            [
+                {
+                    "text": "Ask Grok is currently available on X",
+                    "match": "Portugal vs Spain",
+                    "team": "Portugal",
+                    "player": "Cristiano Ronaldo",
+                    "event": "record",
+                }
+            ]
+        )
+
+        annotated = annotate_replies(df)
+
+        self.assertEqual(annotated.loc[0, "filter_reason"], "spam")
+
+    def test_preprocess_reply_buckets_preserves_context_review_rows(self):
+        df = pd.DataFrame(
+            [
+                {
+                    "text": "Ronaldo is the GOAT",
+                    "match": "Portugal vs Spain",
+                    "team": "Portugal",
+                    "player": "Cristiano Ronaldo",
+                    "event": "record",
+                },
+                {
+                    "text": "No one can ever achieve what this man has achieved",
+                    "match": "Portugal vs Spain",
+                    "team": "Portugal",
+                    "player": "Cristiano Ronaldo",
+                    "event": "record",
+                },
+                {
+                    "text": "Ask Grok is currently available on X",
+                    "match": "Portugal vs Spain",
+                    "team": "Portugal",
+                    "player": "Cristiano Ronaldo",
+                    "event": "record",
+                },
+            ]
+        )
+
+        buckets = preprocess_reply_buckets(df)
+
+        self.assertEqual(len(buckets["analysis"]), 2)
+        self.assertEqual(len(buckets["review"]), 1)
+        self.assertEqual(len(buckets["removed"]), 1)
 
 
 if __name__ == "__main__":
