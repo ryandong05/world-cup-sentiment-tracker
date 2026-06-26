@@ -32,7 +32,7 @@ class GetXAPIClientTests(unittest.TestCase):
                 "Authorization": "Bearer test-key",
                 "Content-Type": "application/json",
             },
-            params={"tweetId": "123", "cursor": "abc"},
+            params={"id": "123", "cursor": "abc"},
             timeout=30,
         )
 

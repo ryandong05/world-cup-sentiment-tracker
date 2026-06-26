@@ -13,6 +13,10 @@ class GetXAPIResponseError(ValueError):
     """Raised when GetXAPI returns an unexpected response shape."""
 
 
+class GetXAPIRequestError(requests.HTTPError):
+    """Raised when GetXAPI returns an HTTP error with a useful message."""
+
+
 def get_headers() -> dict:
     api_key = os.getenv("GETXAPI_KEY", "").strip()
 
@@ -38,9 +42,7 @@ def fetch_replies(tweet_id: str, cursor: str | None = None) -> dict:
     """
     url = f"{BASE_URL}{REPLIES_ENDPOINT}"
 
-    params = {
-        "tweetId": tweet_id,
-    }
+    params = {"id": tweet_id}
 
     if cursor is not None:
         params["cursor"] = cursor
@@ -52,7 +54,7 @@ def fetch_replies(tweet_id: str, cursor: str | None = None) -> dict:
         timeout=DEFAULT_TIMEOUT,
     )
 
-    response.raise_for_status()
+    _raise_for_status(response)
     return response.json()
 
 
@@ -89,6 +91,27 @@ def _first_present(raw: dict, keys: tuple[str, ...]):
         if value is not None:
             return value
     return None
+
+
+def _raise_for_status(response: requests.Response) -> None:
+    try:
+        response.raise_for_status()
+    except requests.HTTPError as exc:
+        detail = None
+
+        try:
+            payload = response.json()
+        except ValueError:
+            payload = None
+
+        if isinstance(payload, dict):
+            detail = payload.get("error") or payload.get("message")
+
+        if detail:
+            message = f"{exc} - GetXAPI error: {detail}"
+            raise GetXAPIRequestError(message, response=response) from exc
+
+        raise
 
 
 def _extract_replies(response: dict) -> list[dict]:
