@@ -295,31 +295,6 @@ def preprocess_replies(
     return analysis_df.reset_index(drop=True)
 
 
-def preprocess_reply_buckets(
-    df: pd.DataFrame,
-    min_relevance_score: int = 1,
-    extra_terms: Iterable[str] | None = None,
-    entity_reference: dict | None = None,
-) -> dict[str, pd.DataFrame]:
-    """Return analysis, review, removed, and annotated reply dataframes."""
-    annotated = annotate_replies(
-        df,
-        min_relevance_score=min_relevance_score,
-        extra_terms=extra_terms,
-        entity_reference=entity_reference,
-    )
-    kept = annotated[annotated["filter_reason"] == "keep"].copy()
-    review = kept[kept["needs_context_review"]].copy()
-    removed = annotated[annotated["filter_reason"] != "keep"].copy()
-
-    return {
-        "analysis": kept.reset_index(drop=True),
-        "review": review.reset_index(drop=True),
-        "removed": removed.reset_index(drop=True),
-        "annotated": annotated.reset_index(drop=True),
-    }
-
-
 def annotate_replies(
     df: pd.DataFrame,
     min_relevance_score: int = 1,

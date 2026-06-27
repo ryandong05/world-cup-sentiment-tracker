@@ -8,7 +8,6 @@ from src.data.preprocess import (
     is_match_relevant,
     is_spam_text,
     is_usable_text,
-    preprocess_reply_buckets,
     preprocess_replies,
     preprocessing_summary,
     relevance_score,
@@ -233,40 +232,6 @@ class PreprocessTests(unittest.TestCase):
         annotated = annotate_replies(df)
 
         self.assertEqual(annotated.loc[0, "filter_reason"], "spam")
-
-    def test_preprocess_reply_buckets_preserves_context_review_rows(self):
-        df = pd.DataFrame(
-            [
-                {
-                    "text": "Ronaldo is the GOAT",
-                    "match": "Portugal vs Spain",
-                    "team": "Portugal",
-                    "player": "Cristiano Ronaldo",
-                    "event": "record",
-                },
-                {
-                    "text": "No one can ever achieve what this man has achieved",
-                    "match": "Portugal vs Spain",
-                    "team": "Portugal",
-                    "player": "Cristiano Ronaldo",
-                    "event": "record",
-                },
-                {
-                    "text": "Ask Grok is currently available on X",
-                    "match": "Portugal vs Spain",
-                    "team": "Portugal",
-                    "player": "Cristiano Ronaldo",
-                    "event": "record",
-                },
-            ]
-        )
-
-        buckets = preprocess_reply_buckets(df)
-
-        self.assertEqual(len(buckets["analysis"]), 2)
-        self.assertEqual(len(buckets["review"]), 1)
-        self.assertEqual(len(buckets["removed"]), 1)
-
 
 if __name__ == "__main__":
     unittest.main()
